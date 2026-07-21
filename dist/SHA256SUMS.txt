@@ -1,5 +1,5 @@
-af00c38ea8e850658f4cec3609f74c6fbd8ee6aece4bc1510ef2545841f2dde5  Codex-Control-Loupedeck-CT-v1.0.0.zip
+4647824ce81f3aba9798b855854c73920d879ba752eb1ced9955015b7f2d1fb8  Codex-Control-Loupedeck-CT-v1.0.0.zip
 b4deceb3b144a64f72e67d35dd35b34581c7ee67ecd35c9972fcd0e7a848b26e  Codex-Control-Loupedeck-CT-v1.0.0.LP4
 607a6a3ba130925958ebeb632d2d96e804d445b940f1114b116afe2af9b7b18d  Codex-Control-Loupedeck-CT-Lite-v1.0.0.LP4
-ed878c039e2f8f9894cdc15b9db0a76d8eb3a6a5e32edfe85eb92ddba4474459  CodexControlWheel-v1.0.0.lplug4
+a5d56e64df71f204306c94818b6a253651031a9baebd29549c9a0f0b0e2beac7  CodexControlWheel-v1.0.0.lplug4
 3b25bcd0845d2de0e789d156c8e20339e4e4dc243f6a882b275df3ee338ecc6a  codex-keybindings.json

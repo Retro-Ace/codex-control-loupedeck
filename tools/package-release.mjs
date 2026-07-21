@@ -59,6 +59,19 @@ function relativeFiles(root) {
     .sort();
 }
 
+function resetGeneratedDirectory(root) {
+  fs.mkdirSync(root, { recursive: true });
+  for (const entry of fs.readdirSync(root)) {
+    if (entry === ".DS_Store") continue;
+    fs.rmSync(path.join(root, entry), {
+      recursive: true,
+      force: true,
+      maxRetries: 5,
+      retryDelay: 100,
+    });
+  }
+}
+
 function profileDirectory(appRoot) {
   return path.join(appRoot, "Profiles", profileId);
 }
@@ -119,10 +132,8 @@ function writeChecksums(names) {
   fs.writeFileSync(path.join(distRoot, artifacts.sums), `${lines.join("\n")}\n`);
 }
 
-fs.rmSync(buildRoot, { recursive: true, force: true });
-fs.rmSync(distRoot, { recursive: true, force: true });
-fs.mkdirSync(buildRoot, { recursive: true });
-fs.mkdirSync(distRoot, { recursive: true });
+resetGeneratedDirectory(buildRoot);
+resetGeneratedDirectory(distRoot);
 
 run(process.execPath, ["tools/generate-icons.mjs"]);
 run(process.execPath, ["tools/render-gallery.mjs"]);
