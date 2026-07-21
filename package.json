@@ -1,0 +1,19 @@
+{
+  "name": "codex-control-loupedeck",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Reproducible source and release tooling for Codex Control on Loupedeck CT.",
+  "author": "Retro-Ace",
+  "license": "MIT",
+  "scripts": {
+    "artwork": "node tools/generate-icons.mjs",
+    "sdk": "node tools/bootstrap-logi-sdk.mjs",
+    "plugin": "dotnet build src/wheel-plugin/CodexControlWheelPlugin.csproj -c Release",
+    "check-shortcuts": "node tools/check-keybindings.mjs",
+    "validate:privacy": "node tools/privacy-audit.mjs",
+    "release": "node tools/package-release.mjs"
+  },
+  "engines": {
+    "node": ">=20"
+  }
+}

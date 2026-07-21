@@ -1,0 +1,42 @@
+[
+  {
+    "command": "composer.addFiles",
+    "key": "Ctrl+Command+Alt+6"
+  },
+  {
+    "command": "composer.addPhotos",
+    "key": "Ctrl+Command+Alt+7"
+  },
+  {
+    "command": "composer.cycleReasoningEffort",
+    "key": "Ctrl+Command+Alt+5"
+  },
+  {
+    "command": "composer.decreaseReasoningEffort",
+    "key": "Ctrl+Command+Alt+3"
+  },
+  {
+    "command": "composer.increaseReasoningEffort",
+    "key": "Ctrl+Command+Alt+4"
+  },
+  {
+    "command": "composer.toggleFastMode",
+    "key": "Ctrl+Command+Alt+2"
+  },
+  {
+    "command": "composer.togglePlanMode",
+    "key": "Ctrl+Command+Alt+1"
+  },
+  {
+    "command": "globalDictationHold",
+    "key": "Ctrl+Command+Alt+9"
+  },
+  {
+    "command": "globalDictationToggle",
+    "key": "Ctrl+Command+Alt+0"
+  },
+  {
+    "command": "searchChats",
+    "key": "Ctrl+Command+Alt+8"
+  }
+]

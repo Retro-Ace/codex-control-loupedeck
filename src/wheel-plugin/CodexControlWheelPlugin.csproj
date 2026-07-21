@@ -1,0 +1,32 @@
+<Project Sdk="Microsoft.NET.Sdk">
+  <PropertyGroup>
+    <TargetFramework>net8.0</TargetFramework>
+    <LangVersion>latest</LangVersion>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+    <RootNamespace>Loupedeck.CodexControlWheelPlugin</RootNamespace>
+    <AssemblyName>CodexControlWheelPlugin</AssemblyName>
+    <Version>1.0.0</Version>
+    <AssemblyVersion>1.0.0.0</AssemblyVersion>
+    <FileVersion>1.0.0.0</FileVersion>
+    <Deterministic>true</Deterministic>
+    <ContinuousIntegrationBuild>true</ContinuousIntegrationBuild>
+    <DebugType>none</DebugType>
+    <DebugSymbols>false</DebugSymbols>
+    <AppendTargetFrameworkToOutputPath>false</AppendTargetFrameworkToOutputPath>
+    <OutputPath>bin/</OutputPath>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Reference Include="PluginApi">
+      <HintPath>../../build/sdk/PluginApi.dll</HintPath>
+      <Private>false</Private>
+    </Reference>
+    <EmbeddedResource Include="../icons/wheel/reasoning-wheel-idle.png">
+      <LogicalName>Loupedeck.CodexControlWheelPlugin.images.reasoning-wheel-idle.png</LogicalName>
+    </EmbeddedResource>
+    <EmbeddedResource Include="../icons/wheel/reasoning-wheel-pulse.png">
+      <LogicalName>Loupedeck.CodexControlWheelPlugin.images.reasoning-wheel-pulse.png</LogicalName>
+    </EmbeddedResource>
+  </ItemGroup>
+</Project>

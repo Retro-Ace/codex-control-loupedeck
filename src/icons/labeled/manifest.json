@@ -1,0 +1,752 @@
+{
+  "style": "Codex Signal Labeled",
+  "size": "256x256",
+  "icons": [
+    {
+      "page": "command",
+      "name": "new-chat",
+      "label": "NEW CHAT",
+      "labelLines": [
+        "NEW",
+        "CHAT"
+      ],
+      "color": "cyan",
+      "filename": "command/new-chat.svg"
+    },
+    {
+      "page": "command",
+      "name": "quick-chat",
+      "label": "QUICK CHAT",
+      "labelLines": [
+        "QUICK",
+        "CHAT"
+      ],
+      "color": "cyan",
+      "filename": "command/quick-chat.svg"
+    },
+    {
+      "page": "command",
+      "name": "side-chat",
+      "label": "SIDE CHAT",
+      "labelLines": [
+        "SIDE",
+        "CHAT"
+      ],
+      "color": "blue",
+      "filename": "command/side-chat.svg"
+    },
+    {
+      "page": "command",
+      "name": "search",
+      "label": "SWITCH CHAT",
+      "labelLines": [
+        "SWITCH",
+        "CHAT"
+      ],
+      "color": "cyan",
+      "filename": "command/search.svg"
+    },
+    {
+      "page": "command",
+      "name": "project",
+      "label": "PROJECT",
+      "labelLines": [
+        "PROJECT"
+      ],
+      "color": "cyan",
+      "filename": "command/project.svg"
+    },
+    {
+      "page": "command",
+      "name": "add-files",
+      "label": "FILES",
+      "labelLines": [
+        "FILES"
+      ],
+      "color": "cyan",
+      "filename": "command/add-files.svg"
+    },
+    {
+      "page": "command",
+      "name": "add-photos",
+      "label": "PHOTOS",
+      "labelLines": [
+        "PHOTOS"
+      ],
+      "color": "blue",
+      "filename": "command/add-photos.svg"
+    },
+    {
+      "page": "command",
+      "name": "model",
+      "label": "MODEL",
+      "labelLines": [
+        "MODEL"
+      ],
+      "color": "violet",
+      "filename": "command/model.svg"
+    },
+    {
+      "page": "command",
+      "name": "voice",
+      "label": "VOICE",
+      "labelLines": [
+        "VOICE"
+      ],
+      "color": "amber",
+      "filename": "command/voice.svg"
+    },
+    {
+      "page": "command",
+      "name": "dictate",
+      "label": "DICTATE",
+      "labelLines": [
+        "DICTATE"
+      ],
+      "color": "amber",
+      "filename": "command/dictate.svg"
+    },
+    {
+      "page": "command",
+      "name": "plan",
+      "label": "PLAN",
+      "labelLines": [
+        "PLAN"
+      ],
+      "color": "violet",
+      "filename": "command/plan.svg"
+    },
+    {
+      "page": "command",
+      "name": "fast",
+      "label": "FAST",
+      "labelLines": [
+        "FAST"
+      ],
+      "color": "violet",
+      "filename": "command/fast.svg"
+    },
+    {
+      "page": "skills",
+      "name": "plan",
+      "label": "PLAN",
+      "labelLines": [
+        "PLAN"
+      ],
+      "color": "violet",
+      "filename": "skills/plan.svg"
+    },
+    {
+      "page": "skills",
+      "name": "build",
+      "label": "BUILD",
+      "labelLines": [
+        "BUILD"
+      ],
+      "color": "cyan",
+      "filename": "skills/build.svg"
+    },
+    {
+      "page": "skills",
+      "name": "debug",
+      "label": "DEBUG",
+      "labelLines": [
+        "DEBUG"
+      ],
+      "color": "coral",
+      "filename": "skills/debug.svg"
+    },
+    {
+      "page": "skills",
+      "name": "review",
+      "label": "REVIEW",
+      "labelLines": [
+        "REVIEW"
+      ],
+      "color": "green",
+      "filename": "skills/review.svg"
+    },
+    {
+      "page": "skills",
+      "name": "test",
+      "label": "TEST",
+      "labelLines": [
+        "TEST"
+      ],
+      "color": "green",
+      "filename": "skills/test.svg"
+    },
+    {
+      "page": "skills",
+      "name": "refactor",
+      "label": "REFACTOR",
+      "labelLines": [
+        "REFACTOR"
+      ],
+      "color": "blue",
+      "filename": "skills/refactor.svg"
+    },
+    {
+      "page": "skills",
+      "name": "explain",
+      "label": "EXPLAIN",
+      "labelLines": [
+        "EXPLAIN"
+      ],
+      "color": "amber",
+      "filename": "skills/explain.svg"
+    },
+    {
+      "page": "skills",
+      "name": "docs",
+      "label": "DOCS",
+      "labelLines": [
+        "DOCS"
+      ],
+      "color": "slate",
+      "filename": "skills/docs.svg"
+    },
+    {
+      "page": "skills",
+      "name": "research",
+      "label": "RESEARCH",
+      "labelLines": [
+        "RESEARCH"
+      ],
+      "color": "cyan",
+      "filename": "skills/research.svg"
+    },
+    {
+      "page": "skills",
+      "name": "ui-polish",
+      "label": "UI POLISH",
+      "labelLines": [
+        "UI",
+        "POLISH"
+      ],
+      "color": "violet",
+      "filename": "skills/ui-polish.svg"
+    },
+    {
+      "page": "skills",
+      "name": "visuals",
+      "label": "VISUALS",
+      "labelLines": [
+        "VISUALS"
+      ],
+      "color": "violet",
+      "filename": "skills/visuals.svg"
+    },
+    {
+      "page": "skills",
+      "name": "continue",
+      "label": "CONTINUE",
+      "labelLines": [
+        "CONTINUE"
+      ],
+      "color": "cyan",
+      "filename": "skills/continue.svg"
+    },
+    {
+      "page": "quick-text",
+      "name": "finish-it",
+      "label": "FINISH",
+      "labelLines": [
+        "FINISH"
+      ],
+      "color": "cyan",
+      "filename": "quick-text/finish-it.svg"
+    },
+    {
+      "page": "quick-text",
+      "name": "status-check",
+      "label": "STATUS",
+      "labelLines": [
+        "STATUS"
+      ],
+      "color": "blue",
+      "filename": "quick-text/status-check.svg"
+    },
+    {
+      "page": "quick-text",
+      "name": "root-cause",
+      "label": "ROOT CAUSE",
+      "labelLines": [
+        "ROOT",
+        "CAUSE"
+      ],
+      "color": "coral",
+      "filename": "quick-text/root-cause.svg"
+    },
+    {
+      "page": "quick-text",
+      "name": "check-rest",
+      "label": "CHECK REST",
+      "labelLines": [
+        "CHECK",
+        "REST"
+      ],
+      "color": "cyan",
+      "filename": "quick-text/check-rest.svg"
+    },
+    {
+      "page": "quick-text",
+      "name": "update-docs",
+      "label": "UPDATE DOCS",
+      "labelLines": [
+        "UPDATE",
+        "DOCS"
+      ],
+      "color": "slate",
+      "filename": "quick-text/update-docs.svg"
+    },
+    {
+      "page": "quick-text",
+      "name": "validate-all",
+      "label": "VALIDATE",
+      "labelLines": [
+        "VALIDATE"
+      ],
+      "color": "green",
+      "filename": "quick-text/validate-all.svg"
+    },
+    {
+      "page": "quick-text",
+      "name": "review-changes",
+      "label": "REVIEW",
+      "labelLines": [
+        "REVIEW"
+      ],
+      "color": "green",
+      "filename": "quick-text/review-changes.svg"
+    },
+    {
+      "page": "quick-text",
+      "name": "make-nice",
+      "label": "MAKE NICE",
+      "labelLines": [
+        "MAKE",
+        "NICE"
+      ],
+      "color": "violet",
+      "filename": "quick-text/make-nice.svg"
+    },
+    {
+      "page": "quick-text",
+      "name": "simplify",
+      "label": "SIMPLIFY",
+      "labelLines": [
+        "SIMPLIFY"
+      ],
+      "color": "blue",
+      "filename": "quick-text/simplify.svg"
+    },
+    {
+      "page": "quick-text",
+      "name": "best-judgment",
+      "label": "BEST JUDGMENT",
+      "labelLines": [
+        "BEST",
+        "JUDGMENT"
+      ],
+      "color": "amber",
+      "filename": "quick-text/best-judgment.svg"
+    },
+    {
+      "page": "quick-text",
+      "name": "handoff",
+      "label": "HANDOFF",
+      "labelLines": [
+        "HANDOFF"
+      ],
+      "color": "blue",
+      "filename": "quick-text/handoff.svg"
+    },
+    {
+      "page": "quick-text",
+      "name": "match-visual",
+      "label": "MATCH VISUAL",
+      "labelLines": [
+        "MATCH",
+        "VISUAL"
+      ],
+      "color": "violet",
+      "filename": "quick-text/match-visual.svg"
+    },
+    {
+      "page": "personal",
+      "name": "inspect-first",
+      "label": "INSPECT FIRST",
+      "labelLines": [
+        "INSPECT",
+        "FIRST"
+      ],
+      "color": "cyan",
+      "filename": "personal/inspect-first.svg"
+    },
+    {
+      "page": "personal",
+      "name": "find-root",
+      "label": "FIND ROOT",
+      "labelLines": [
+        "FIND",
+        "ROOT"
+      ],
+      "color": "blue",
+      "filename": "personal/find-root.svg"
+    },
+    {
+      "page": "personal",
+      "name": "lock-scope",
+      "label": "LOCK SCOPE",
+      "labelLines": [
+        "LOCK",
+        "SCOPE"
+      ],
+      "color": "amber",
+      "filename": "personal/lock-scope.svg"
+    },
+    {
+      "page": "personal",
+      "name": "preserve",
+      "label": "PRESERVE",
+      "labelLines": [
+        "PRESERVE"
+      ],
+      "color": "green",
+      "filename": "personal/preserve.svg"
+    },
+    {
+      "page": "personal",
+      "name": "small-fix",
+      "label": "SMALL FIX",
+      "labelLines": [
+        "SMALL",
+        "FIX"
+      ],
+      "color": "amber",
+      "filename": "personal/small-fix.svg"
+    },
+    {
+      "page": "personal",
+      "name": "use-existing",
+      "label": "USE EXISTING",
+      "labelLines": [
+        "USE",
+        "EXISTING"
+      ],
+      "color": "blue",
+      "filename": "personal/use-existing.svg"
+    },
+    {
+      "page": "personal",
+      "name": "full-files",
+      "label": "FULL FILES",
+      "labelLines": [
+        "FULL",
+        "FILES"
+      ],
+      "color": "slate",
+      "filename": "personal/full-files.svg"
+    },
+    {
+      "page": "personal",
+      "name": "source-truth",
+      "label": "SOURCE TRUTH",
+      "labelLines": [
+        "SOURCE",
+        "TRUTH"
+      ],
+      "color": "green",
+      "filename": "personal/source-truth.svg"
+    },
+    {
+      "page": "personal",
+      "name": "no-guessing",
+      "label": "NO GUESSING",
+      "labelLines": [
+        "NO",
+        "GUESSING"
+      ],
+      "color": "coral",
+      "filename": "personal/no-guessing.svg"
+    },
+    {
+      "page": "personal",
+      "name": "keep-going",
+      "label": "KEEP GOING",
+      "labelLines": [
+        "KEEP",
+        "GOING"
+      ],
+      "color": "cyan",
+      "filename": "personal/keep-going.svg"
+    },
+    {
+      "page": "personal",
+      "name": "deep-research",
+      "label": "DEEP RESEARCH",
+      "labelLines": [
+        "DEEP",
+        "RESEARCH"
+      ],
+      "color": "violet",
+      "filename": "personal/deep-research.svg"
+    },
+    {
+      "page": "personal",
+      "name": "audit-only",
+      "label": "AUDIT ONLY",
+      "labelLines": [
+        "AUDIT",
+        "ONLY"
+      ],
+      "color": "slate",
+      "filename": "personal/audit-only.svg"
+    },
+    {
+      "page": "create",
+      "name": "creative",
+      "label": "CREATIVE",
+      "labelLines": [
+        "CREATIVE"
+      ],
+      "color": "violet",
+      "filename": "create/creative.svg"
+    },
+    {
+      "page": "create",
+      "name": "documents",
+      "label": "DOCUMENTS",
+      "labelLines": [
+        "DOCUMENTS"
+      ],
+      "color": "slate",
+      "filename": "create/documents.svg"
+    },
+    {
+      "page": "create",
+      "name": "sheets",
+      "label": "SHEETS",
+      "labelLines": [
+        "SHEETS"
+      ],
+      "color": "green",
+      "filename": "create/sheets.svg"
+    },
+    {
+      "page": "create",
+      "name": "pdf",
+      "label": "PDF",
+      "labelLines": [
+        "PDF"
+      ],
+      "color": "coral",
+      "filename": "create/pdf.svg"
+    },
+    {
+      "page": "create",
+      "name": "slides",
+      "label": "SLIDES",
+      "labelLines": [
+        "SLIDES"
+      ],
+      "color": "amber",
+      "filename": "create/slides.svg"
+    },
+    {
+      "page": "create",
+      "name": "templates",
+      "label": "TEMPLATES",
+      "labelLines": [
+        "TEMPLATES"
+      ],
+      "color": "blue",
+      "filename": "create/templates.svg"
+    },
+    {
+      "page": "create",
+      "name": "sites",
+      "label": "SITES",
+      "labelLines": [
+        "SITES"
+      ],
+      "color": "cyan",
+      "filename": "create/sites.svg"
+    },
+    {
+      "page": "create",
+      "name": "product-design",
+      "label": "PRODUCT DESIGN",
+      "labelLines": [
+        "PRODUCT",
+        "DESIGN"
+      ],
+      "color": "violet",
+      "filename": "create/product-design.svg"
+    },
+    {
+      "page": "create",
+      "name": "expo",
+      "label": "EXPO",
+      "labelLines": [
+        "EXPO"
+      ],
+      "color": "cyan",
+      "filename": "create/expo.svg"
+    },
+    {
+      "page": "create",
+      "name": "remotion",
+      "label": "REMOTION",
+      "labelLines": [
+        "REMOTION"
+      ],
+      "color": "coral",
+      "filename": "create/remotion.svg"
+    },
+    {
+      "page": "create",
+      "name": "lr-hdr",
+      "label": "LR HDR",
+      "labelLines": [
+        "LR",
+        "HDR"
+      ],
+      "color": "amber",
+      "filename": "create/lr-hdr.svg"
+    },
+    {
+      "page": "create",
+      "name": "imagegen",
+      "label": "IMAGE GEN",
+      "labelLines": [
+        "IMAGE",
+        "GEN"
+      ],
+      "color": "violet",
+      "filename": "create/imagegen.svg"
+    },
+    {
+      "page": "operate",
+      "name": "browser",
+      "label": "BROWSER",
+      "labelLines": [
+        "BROWSER"
+      ],
+      "color": "cyan",
+      "filename": "operate/browser.svg"
+    },
+    {
+      "page": "operate",
+      "name": "computer",
+      "label": "COMPUTER",
+      "labelLines": [
+        "COMPUTER"
+      ],
+      "color": "blue",
+      "filename": "operate/computer.svg"
+    },
+    {
+      "page": "operate",
+      "name": "gmail",
+      "label": "GMAIL",
+      "labelLines": [
+        "GMAIL"
+      ],
+      "color": "coral",
+      "filename": "operate/gmail.svg"
+    },
+    {
+      "page": "operate",
+      "name": "mail",
+      "label": "MAIL",
+      "labelLines": [
+        "MAIL"
+      ],
+      "color": "blue",
+      "filename": "operate/mail.svg"
+    },
+    {
+      "page": "operate",
+      "name": "lightroom",
+      "label": "LIGHTROOM",
+      "labelLines": [
+        "LIGHTROOM"
+      ],
+      "color": "violet",
+      "filename": "operate/lightroom.svg"
+    },
+    {
+      "page": "operate",
+      "name": "numbers",
+      "label": "NUMBERS",
+      "labelLines": [
+        "NUMBERS"
+      ],
+      "color": "green",
+      "filename": "operate/numbers.svg"
+    },
+    {
+      "page": "operate",
+      "name": "pages",
+      "label": "PAGES",
+      "labelLines": [
+        "PAGES"
+      ],
+      "color": "amber",
+      "filename": "operate/pages.svg"
+    },
+    {
+      "page": "operate",
+      "name": "github",
+      "label": "GITHUB",
+      "labelLines": [
+        "GITHUB"
+      ],
+      "color": "slate",
+      "filename": "operate/github.svg"
+    },
+    {
+      "page": "operate",
+      "name": "calendar",
+      "label": "CALENDAR",
+      "labelLines": [
+        "CALENDAR"
+      ],
+      "color": "coral",
+      "filename": "operate/calendar.svg"
+    },
+    {
+      "page": "operate",
+      "name": "drive",
+      "label": "DRIVE",
+      "labelLines": [
+        "DRIVE"
+      ],
+      "color": "green",
+      "filename": "operate/drive.svg"
+    },
+    {
+      "page": "operate",
+      "name": "openai-docs",
+      "label": "OPENAI DOCS",
+      "labelLines": [
+        "OPENAI",
+        "DOCS"
+      ],
+      "color": "cyan",
+      "filename": "operate/openai-docs.svg"
+    },
+    {
+      "page": "operate",
+      "name": "canva",
+      "label": "CANVA",
+      "labelLines": [
+        "CANVA"
+      ],
+      "color": "violet",
+      "filename": "operate/canva.svg"
+    }
+  ]
+}

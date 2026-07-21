@@ -1,0 +1,22 @@
+{
+  "style": "Codex Signal · Premium Reasoning Wheel",
+  "size": "1024x1024",
+  "generatedWith": "ImageGen",
+  "behavior": {
+    "turnLeft": "Decrease reasoning effort",
+    "turnRight": "Increase reasoning effort",
+    "tap": "Cycle reasoning effort",
+    "pulseMeaning": "Input acknowledgement only; not reasoning-level state"
+  },
+  "assets": {
+    "idle": {
+      "filename": "reasoning-wheel-idle.png",
+      "sha256": "497749552f5f98e9a0f8325adda54369f8aea20df2ffb605f89efb8f2bf87d02"
+    },
+    "pulse": {
+      "filename": "reasoning-wheel-pulse.png",
+      "sha256": "14809a72d772a25bed074116676838e05381fcb9e15be06e1ee4bc0466da027a",
+      "intendedDurationMs": 220
+    }
+  }
+}

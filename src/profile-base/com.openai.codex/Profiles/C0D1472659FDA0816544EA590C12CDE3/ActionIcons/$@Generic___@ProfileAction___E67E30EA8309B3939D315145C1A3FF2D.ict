@@ -1,0 +1,20 @@
+{
+  "backgroundColor": 4278190080,
+  "items": [
+    {
+      "$type": "Loupedeck.Service.ActionIconImageItem, LoupedeckShared",
+      "image": "PD94bWwgdmVyc2lvbj0iMS4wIiBlbmNvZGluZz0iVVRGLTgiPz4KPHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIyNTYiIGhlaWdodD0iMjU2IiB2aWV3Qm94PSIwIDAgMjU2IDI1NiI+CiAgPGRlZnM+CiAgICA8cmFkaWFsR3JhZGllbnQgaWQ9Indhc2giIGN4PSI1MCUiIGN5PSIyNSUiIHI9Ijg1JSI+CiAgICAgIDxzdG9wIG9mZnNldD0iMCIgc3RvcC1jb2xvcj0iIzY3QTdGRiIgc3RvcC1vcGFjaXR5PSIwLjI0Ii8+CiAgICAgIDxzdG9wIG9mZnNldD0iMC41OCIgc3RvcC1jb2xvcj0iIzBCMTExQyIgc3RvcC1vcGFjaXR5PSIwLjk0Ii8+CiAgICAgIDxzdG9wIG9mZnNldD0iMSIgc3RvcC1jb2xvcj0iIzA1MDcwQyIvPgogICAgPC9yYWRpYWxHcmFkaWVudD4KICAgIDxmaWx0ZXIgaWQ9Imdsb3ciIHg9Ii00MCUiIHk9Ii00MCUiIHdpZHRoPSIxODAlIiBoZWlnaHQ9IjE4MCUiPgogICAgICA8ZmVHYXVzc2lhbkJsdXIgc3RkRGV2aWF0aW9uPSI0IiByZXN1bHQ9ImJsdXIiLz4KICAgICAgPGZlTWVyZ2U+PGZlTWVyZ2VOb2RlIGluPSJibHVyIi8+PGZlTWVyZ2VOb2RlIGluPSJTb3VyY2VHcmFwaGljIi8+PC9mZU1lcmdlPgogICAgPC9maWx0ZXI+CiAgPC9kZWZzPgogIDxyZWN0IHg9IjgiIHk9IjgiIHdpZHRoPSIyNDAiIGhlaWdodD0iMjQwIiByeD0iNDgiIGZpbGw9IiMwNTA3MEMiLz4KICA8cmVjdCB4PSIxMiIgeT0iMTIiIHdpZHRoPSIyMzIiIGhlaWdodD0iMjMyIiByeD0iNDQiIGZpbGw9InVybCgjd2FzaCkiIHN0cm9rZT0iIzY3QTdGRiIgc3Ryb2tlLXdpZHRoPSI1Ii8+CiAgPGcgdHJhbnNmb3JtPSJ0cmFuc2xhdGUoMTYgMTMpIHNjYWxlKC44NzUpIiBmaWx0ZXI9InVybCgjZ2xvdykiPjxnIGZpbGw9Im5vbmUiIHN0cm9rZT0iI0Y3RkJGRiIgc3Ryb2tlLXdpZHRoPSIyMCIgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIiBzdHJva2UtbGluZWpvaW49InJvdW5kIj48cGF0aCBkPSJNODIgNzN2NDcgTTkwIDEyOGg3NiBNMTc0IDczdjQ3IE0xNzQgMTM2djQ3Ii8+PC9nPjwvZz4KICA8cmVjdCB4PSI3NCIgeT0iMjIyIiB3aWR0aD0iMTA4IiBoZWlnaHQ9IjciIHJ4PSIzLjUiIGZpbGw9IiM2N0E3RkYiIGZpbHRlcj0idXJsKCNnbG93KSIvPgo8L3N2Zz4K",
+      "imageFileName": "task-4.svg",
+      "imageColor": 4294967295,
+      "imageRotation": "None",
+      "isVisible": true,
+      "itemType": "Image",
+      "area": {
+        "x": 0,
+        "y": 0,
+        "width": 100,
+        "height": 100
+      }
+    }
+  ]
+}

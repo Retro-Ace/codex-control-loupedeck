@@ -1,0 +1,9 @@
+.DS_Store
+build/
+node_modules/
+src/wheel-plugin/bin/
+src/wheel-plugin/obj/
+src/wheel-plugin/sdk/
+*.pdb
+*.user
+*.suo

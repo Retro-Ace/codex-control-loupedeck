@@ -1,0 +1,558 @@
+{
+  "style": "Codex Signal",
+  "size": "256x256",
+  "icons": [
+    {
+      "name": "new-chat",
+      "label": "New Chat",
+      "color": "cyan",
+      "filename": "new-chat.svg"
+    },
+    {
+      "name": "quick-chat",
+      "label": "Quick Chat",
+      "color": "cyan",
+      "filename": "quick-chat.svg"
+    },
+    {
+      "name": "side-chat",
+      "label": "Side Chat",
+      "color": "blue",
+      "filename": "side-chat.svg"
+    },
+    {
+      "name": "search",
+      "label": "Search",
+      "color": "cyan",
+      "filename": "search.svg"
+    },
+    {
+      "name": "project",
+      "label": "Project",
+      "color": "cyan",
+      "filename": "project.svg"
+    },
+    {
+      "name": "add-files",
+      "label": "Add Files",
+      "color": "cyan",
+      "filename": "add-files.svg"
+    },
+    {
+      "name": "add-photos",
+      "label": "Add Photos",
+      "color": "blue",
+      "filename": "add-photos.svg"
+    },
+    {
+      "name": "model",
+      "label": "Model",
+      "color": "violet",
+      "filename": "model.svg"
+    },
+    {
+      "name": "voice",
+      "label": "Voice",
+      "color": "amber",
+      "filename": "voice.svg"
+    },
+    {
+      "name": "dictate",
+      "label": "Dictate",
+      "color": "amber",
+      "filename": "dictate.svg"
+    },
+    {
+      "name": "plan",
+      "label": "Plan",
+      "color": "violet",
+      "filename": "plan.svg"
+    },
+    {
+      "name": "fast",
+      "label": "Fast",
+      "color": "violet",
+      "filename": "fast.svg"
+    },
+    {
+      "name": "previous",
+      "label": "Previous",
+      "color": "blue",
+      "filename": "previous.svg"
+    },
+    {
+      "name": "next",
+      "label": "Next",
+      "color": "blue",
+      "filename": "next.svg"
+    },
+    {
+      "name": "workspace-command",
+      "label": "Command",
+      "color": "cyan",
+      "filename": "workspace-command.svg"
+    },
+    {
+      "name": "workspace-agents",
+      "label": "Agents",
+      "color": "blue",
+      "filename": "workspace-agents.svg"
+    },
+    {
+      "name": "workspace-skills",
+      "label": "Skills",
+      "color": "violet",
+      "filename": "workspace-skills.svg"
+    },
+    {
+      "name": "build",
+      "label": "Build",
+      "color": "cyan",
+      "filename": "build.svg"
+    },
+    {
+      "name": "debug",
+      "label": "Debug",
+      "color": "coral",
+      "filename": "debug.svg"
+    },
+    {
+      "name": "review",
+      "label": "Review",
+      "color": "green",
+      "filename": "review.svg"
+    },
+    {
+      "name": "test",
+      "label": "Test",
+      "color": "green",
+      "filename": "test.svg"
+    },
+    {
+      "name": "refactor",
+      "label": "Refactor",
+      "color": "blue",
+      "filename": "refactor.svg"
+    },
+    {
+      "name": "explain",
+      "label": "Explain",
+      "color": "amber",
+      "filename": "explain.svg"
+    },
+    {
+      "name": "docs",
+      "label": "Docs",
+      "color": "slate",
+      "filename": "docs.svg"
+    },
+    {
+      "name": "research",
+      "label": "Research",
+      "color": "cyan",
+      "filename": "research.svg"
+    },
+    {
+      "name": "ui-polish",
+      "label": "UI Polish",
+      "color": "violet",
+      "filename": "ui-polish.svg"
+    },
+    {
+      "name": "visuals",
+      "label": "Visuals",
+      "color": "violet",
+      "filename": "visuals.svg"
+    },
+    {
+      "name": "continue",
+      "label": "Continue",
+      "color": "cyan",
+      "filename": "continue.svg"
+    },
+    {
+      "name": "reasoning",
+      "label": "Reasoning",
+      "color": "violet",
+      "filename": "reasoning.svg"
+    },
+    {
+      "name": "task-history",
+      "label": "Task History",
+      "color": "blue",
+      "filename": "task-history.svg"
+    },
+    {
+      "name": "scroll",
+      "label": "Scroll",
+      "color": "slate",
+      "filename": "scroll.svg"
+    },
+    {
+      "name": "zoom",
+      "label": "Zoom",
+      "color": "cyan",
+      "filename": "zoom.svg"
+    },
+    {
+      "name": "volume",
+      "label": "Volume",
+      "color": "amber",
+      "filename": "volume.svg"
+    },
+    {
+      "name": "approve",
+      "label": "Approve",
+      "color": "green",
+      "filename": "approve.svg"
+    },
+    {
+      "name": "cancel",
+      "label": "Cancel",
+      "color": "coral",
+      "filename": "cancel.svg"
+    },
+    {
+      "name": "finish-it",
+      "label": "Finish It",
+      "color": "cyan",
+      "filename": "finish-it.svg"
+    },
+    {
+      "name": "status-check",
+      "label": "Status",
+      "color": "blue",
+      "filename": "status-check.svg"
+    },
+    {
+      "name": "root-cause",
+      "label": "Root Cause",
+      "color": "coral",
+      "filename": "root-cause.svg"
+    },
+    {
+      "name": "check-rest",
+      "label": "Check Rest",
+      "color": "cyan",
+      "filename": "check-rest.svg"
+    },
+    {
+      "name": "update-docs",
+      "label": "Update Docs",
+      "color": "slate",
+      "filename": "update-docs.svg"
+    },
+    {
+      "name": "validate-all",
+      "label": "Validate All",
+      "color": "green",
+      "filename": "validate-all.svg"
+    },
+    {
+      "name": "review-changes",
+      "label": "Review Changes",
+      "color": "green",
+      "filename": "review-changes.svg"
+    },
+    {
+      "name": "make-nice",
+      "label": "Make It Nice",
+      "color": "violet",
+      "filename": "make-nice.svg"
+    },
+    {
+      "name": "simplify",
+      "label": "Simplify",
+      "color": "blue",
+      "filename": "simplify.svg"
+    },
+    {
+      "name": "best-judgment",
+      "label": "Best Judgment",
+      "color": "amber",
+      "filename": "best-judgment.svg"
+    },
+    {
+      "name": "handoff",
+      "label": "Handoff",
+      "color": "blue",
+      "filename": "handoff.svg"
+    },
+    {
+      "name": "match-visual",
+      "label": "Match Visual",
+      "color": "violet",
+      "filename": "match-visual.svg"
+    },
+    {
+      "name": "inspect-first",
+      "label": "Inspect First",
+      "color": "cyan",
+      "filename": "inspect-first.svg"
+    },
+    {
+      "name": "find-root",
+      "label": "Find Root",
+      "color": "blue",
+      "filename": "find-root.svg"
+    },
+    {
+      "name": "lock-scope",
+      "label": "Lock Scope",
+      "color": "amber",
+      "filename": "lock-scope.svg"
+    },
+    {
+      "name": "preserve",
+      "label": "Preserve",
+      "color": "green",
+      "filename": "preserve.svg"
+    },
+    {
+      "name": "small-fix",
+      "label": "Small Fix",
+      "color": "amber",
+      "filename": "small-fix.svg"
+    },
+    {
+      "name": "use-existing",
+      "label": "Use Existing",
+      "color": "blue",
+      "filename": "use-existing.svg"
+    },
+    {
+      "name": "full-files",
+      "label": "Full Files",
+      "color": "slate",
+      "filename": "full-files.svg"
+    },
+    {
+      "name": "source-truth",
+      "label": "Source Truth",
+      "color": "green",
+      "filename": "source-truth.svg"
+    },
+    {
+      "name": "no-guessing",
+      "label": "No Guessing",
+      "color": "coral",
+      "filename": "no-guessing.svg"
+    },
+    {
+      "name": "keep-going",
+      "label": "Keep Going",
+      "color": "cyan",
+      "filename": "keep-going.svg"
+    },
+    {
+      "name": "deep-research",
+      "label": "Deep Research",
+      "color": "violet",
+      "filename": "deep-research.svg"
+    },
+    {
+      "name": "audit-only",
+      "label": "Audit Only",
+      "color": "slate",
+      "filename": "audit-only.svg"
+    },
+    {
+      "name": "creative",
+      "label": "Creative",
+      "color": "violet",
+      "filename": "creative.svg"
+    },
+    {
+      "name": "documents",
+      "label": "Documents",
+      "color": "slate",
+      "filename": "documents.svg"
+    },
+    {
+      "name": "sheets",
+      "label": "Sheets",
+      "color": "green",
+      "filename": "sheets.svg"
+    },
+    {
+      "name": "pdf",
+      "label": "PDF",
+      "color": "coral",
+      "filename": "pdf.svg"
+    },
+    {
+      "name": "slides",
+      "label": "Slides",
+      "color": "amber",
+      "filename": "slides.svg"
+    },
+    {
+      "name": "templates",
+      "label": "Templates",
+      "color": "blue",
+      "filename": "templates.svg"
+    },
+    {
+      "name": "sites",
+      "label": "Sites",
+      "color": "cyan",
+      "filename": "sites.svg"
+    },
+    {
+      "name": "product-design",
+      "label": "Product Design",
+      "color": "violet",
+      "filename": "product-design.svg"
+    },
+    {
+      "name": "expo",
+      "label": "Expo",
+      "color": "cyan",
+      "filename": "expo.svg"
+    },
+    {
+      "name": "remotion",
+      "label": "Remotion",
+      "color": "coral",
+      "filename": "remotion.svg"
+    },
+    {
+      "name": "lr-hdr",
+      "label": "LR HDR",
+      "color": "amber",
+      "filename": "lr-hdr.svg"
+    },
+    {
+      "name": "imagegen",
+      "label": "ImageGen",
+      "color": "violet",
+      "filename": "imagegen.svg"
+    },
+    {
+      "name": "browser",
+      "label": "Browser",
+      "color": "cyan",
+      "filename": "browser.svg"
+    },
+    {
+      "name": "computer",
+      "label": "Computer",
+      "color": "blue",
+      "filename": "computer.svg"
+    },
+    {
+      "name": "gmail",
+      "label": "Gmail",
+      "color": "coral",
+      "filename": "gmail.svg"
+    },
+    {
+      "name": "mail",
+      "label": "Mail",
+      "color": "blue",
+      "filename": "mail.svg"
+    },
+    {
+      "name": "lightroom",
+      "label": "Lightroom",
+      "color": "violet",
+      "filename": "lightroom.svg"
+    },
+    {
+      "name": "numbers",
+      "label": "Numbers",
+      "color": "green",
+      "filename": "numbers.svg"
+    },
+    {
+      "name": "pages",
+      "label": "Pages",
+      "color": "amber",
+      "filename": "pages.svg"
+    },
+    {
+      "name": "github",
+      "label": "GitHub",
+      "color": "slate",
+      "filename": "github.svg"
+    },
+    {
+      "name": "calendar",
+      "label": "Calendar",
+      "color": "coral",
+      "filename": "calendar.svg"
+    },
+    {
+      "name": "drive",
+      "label": "Drive",
+      "color": "green",
+      "filename": "drive.svg"
+    },
+    {
+      "name": "openai-docs",
+      "label": "OpenAI Docs",
+      "color": "cyan",
+      "filename": "openai-docs.svg"
+    },
+    {
+      "name": "canva",
+      "label": "Canva",
+      "color": "violet",
+      "filename": "canva.svg"
+    },
+    {
+      "name": "task-1",
+      "label": "Task 1",
+      "color": "blue",
+      "filename": "task-1.svg"
+    },
+    {
+      "name": "task-2",
+      "label": "Task 2",
+      "color": "blue",
+      "filename": "task-2.svg"
+    },
+    {
+      "name": "task-3",
+      "label": "Task 3",
+      "color": "blue",
+      "filename": "task-3.svg"
+    },
+    {
+      "name": "task-4",
+      "label": "Task 4",
+      "color": "blue",
+      "filename": "task-4.svg"
+    },
+    {
+      "name": "task-5",
+      "label": "Task 5",
+      "color": "blue",
+      "filename": "task-5.svg"
+    },
+    {
+      "name": "task-6",
+      "label": "Task 6",
+      "color": "blue",
+      "filename": "task-6.svg"
+    },
+    {
+      "name": "task-7",
+      "label": "Task 7",
+      "color": "blue",
+      "filename": "task-7.svg"
+    },
+    {
+      "name": "task-8",
+      "label": "Task 8",
+      "color": "blue",
+      "filename": "task-8.svg"
+    },
+    {
+      "name": "task-9",
+      "label": "Task 9",
+      "color": "blue",
+      "filename": "task-9.svg"
+    }
+  ]
+}

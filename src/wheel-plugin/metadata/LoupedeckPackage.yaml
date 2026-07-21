@@ -1,0 +1,13 @@
+type: plugin4
+name: CodexControlWheel
+displayName: Codex Control Wheel
+description: Full-wheel reasoning control for the Codex Loupedeck profile
+pluginFileName: CodexControlWheelPlugin.dll
+version: 1.0.0
+author: Retro-Ace
+copyright: Copyright 2026 Retro-Ace
+minimumLoupedeckVersion: 6.3
+pluginFolderMac: bin
+supportedDevices:
+  - LoupedeckCtFamily
+license: MIT

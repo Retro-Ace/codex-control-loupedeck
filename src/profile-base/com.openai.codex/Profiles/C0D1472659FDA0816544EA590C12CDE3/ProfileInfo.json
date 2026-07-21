@@ -1,0 +1,3464 @@
+{
+    "$type": "Loupedeck.Service.ApplicationProfile, LoupedeckService",
+    "name": "C0D1472659FDA0816544EA590C12CDE3",
+    "profileFlags": "None",
+    "displayName": "Codex",
+    "description": "Codex Control · commands, task navigation, guided create and operate tools, review-first skills, personal guardrails, and premium Codex Signal icons.",
+    "deviceType": "Loupedeck20",
+    "applicationName": "com.openai.codex",
+    "nativePluginName": null,
+    "hasNativePlugin": false,
+    "additionalNativePluginNames": [
+        "DefaultMac",
+        "AppleMusic"
+    ],
+    "lastModifiedTimeUtc": "2026-01-01T00:00:00.000Z",
+    "profileSettings": {
+        "$type": "Loupedeck.DictionaryNoCase`1[[System.String, System.Private.CoreLib]], PluginApi"
+    },
+    "actionImages90": null,
+    "actionImages60": null,
+    "wheelImages": null,
+    "actionColors": null,
+    "layout": {
+        "$type": "Loupedeck.Service.ProfileLayout20, LoupedeckService",
+        "deviceType": "Loupedeck20",
+        "profileFlags": "None",
+        "layoutModes": [
+            {
+                "$type": "Loupedeck.Service.ProfileLayoutMode20, LoupedeckService",
+                "deviceType": "Loupedeck20",
+                "modeName": "main",
+                "parentModeName": null,
+                "actions": null,
+                "dynamicButtonPages": null,
+                "dynamicEncoderPages": null,
+                "touchPages": [
+                    {
+                        "$type": "Loupedeck.Service.ProfileLayoutButtonPage, LoupedeckService",
+                        "name": "256858CAE7C046A0A8FDA8F1B3B227E0",
+                        "displayName": "Command",
+                        "description": null,
+                        "controls": [
+                            {
+                                "$type": "Loupedeck.Service.ProfileLayoutButton, LoupedeckService",
+                                "pressAction": "$@Generic___@ProfileAction___FE9DF858E4DE996BEF8BE55399E0BFEA",
+                                "fnPressAction": null
+                            },
+                            {
+                                "$type": "Loupedeck.Service.ProfileLayoutButton, LoupedeckService",
+                                "pressAction": "$@Generic___@ProfileAction___D39EEF2AABB37AEFF3CDB04C3CA4F836",
+                                "fnPressAction": null
+                            },
+                            {
+                                "$type": "Loupedeck.Service.ProfileLayoutButton, LoupedeckService",
+                                "pressAction": "$@Generic___@ProfileAction___1880EDD9D0AC09B7C9A2F0178DA3C091",
+                                "fnPressAction": null
+                            },
+                            {
+                                "$type": "Loupedeck.Service.ProfileLayoutButton, LoupedeckService",
+                                "pressAction": "$@Generic___@ProfileAction___789BFECDABD5F3C07C7F9949964B4E50",
+                                "fnPressAction": null
+                            },
+                            {
+                                "$type": "Loupedeck.Service.ProfileLayoutButton, LoupedeckService",
+                                "pressAction": "$@Generic___@ProfileAction___0EEF37F4608DAE638D278AD4F39DA16B",
+                                "fnPressAction": null
+                            },
+                            {
+                                "$type": "Loupedeck.Service.ProfileLayoutButton, LoupedeckService",
+                                "pressAction": "$@Generic___@ProfileAction___42EDB9D891186DFCF9F3C7061FC4A44D",
+                                "fnPressAction": null
+                            },
+                            {
+                                "$type": "Loupedeck.Service.ProfileLayoutButton, LoupedeckService",
+                                "pressAction": "$@Generic___@ProfileAction___CE07A8A7A31D32A039AFC567BDB75CE8",
+                                "fnPressAction": null
+                            },
+                            {
+                                "$type": "Loupedeck.Service.ProfileLayoutButton, LoupedeckService",
+                                "pressAction": "$@Generic___@ProfileAction___B270FBE796E4C9D4F24DE1942E5DF1E7",
+                                "fnPressAction": null
+                            },
+                            {
+                                "$type": "Loupedeck.Service.ProfileLayoutButton, LoupedeckService",
+                                "pressAction": "$@Generic___@ProfileAction___3A7B582F7FFA603A67E296E5BB20E073",
+                                "fnPressAction": null
+                            },
+                            {
+                                "$type": "Loupedeck.Service.ProfileLayoutButton, LoupedeckService",
+                                "pressAction": "$@Generic___@ProfileAction___FC185FFE230932699226E1A5269EACFA",
+                                "fnPressAction": null
+                            },
+                            {
+                                "$type": "Loupedeck.Service.ProfileLayoutButton, LoupedeckService",
+                                "pressAction": "$@Generic___@ProfileAction___C455464D6B93DF82BA816F889F6D6B99",
+                                "fnPressAction": null
+                            },
+                            {
+                                "$type": "Loupedeck.Service.ProfileLayoutButton, LoupedeckService",
+                                "pressAction": "$@Generic___@ProfileAction___FDEF4464B3AF732637E36C255F7C84CC",
+                                "fnPressAction": null
+                            },
+                            {
+                                "$type": "Loupedeck.Service.ProfileLayoutButton, LoupedeckService",
+                                "pressAction": null,
+                                "fnPressAction": null
+                            },
+                            {
+                                "$type": "Loupedeck.Service.ProfileLayoutButton, LoupedeckService",
+                                "pressAction": null,
+                                "fnPressAction": null
+                            },
+                            {
+                                "$type": "Loupedeck.Service.ProfileLayoutButton, LoupedeckService",
+                                "pressAction": null,
+                                "fnPressAction": null
+                            }
+                        ],
+                        "dynamicPageName": null,
+                        "dynamicPagePluginName": null,
+                        "dynamicPageNumber": 0
+                    },
+                    {
+                        "$type": "Loupedeck.Service.ProfileLayoutButtonPage, LoupedeckService",
+                        "name": "D800CE4F5D2C49F9A91320BEE8E76DD1",
+                        "displayName": "Agents",
+                        "description": null,
+                        "controls": [
+                            {
+                                "$type": "Loupedeck.Service.ProfileLayoutButton, LoupedeckService",
+                                "pressAction": "$@Generic___@ProfileAction___61577E8FC96A2501DC193B11973439B0",
+                                "fnPressAction": null
+                            },
+                            {
+                                "$type": "Loupedeck.Service.ProfileLayoutButton, LoupedeckService",
+                                "pressAction": "$@Generic___@ProfileAction___8251540708F1E035138CBCA209312907",
+                                "fnPressAction": null
+                            },
+                            {
+                                "$type": "Loupedeck.Service.ProfileLayoutButton, LoupedeckService",
+                                "pressAction": "$@Generic___@ProfileAction___F5A8D0DBCF119F9CB0D55881B8F2010B",
+                                "fnPressAction": null
+                            },
+                            {
+                                "$type": "Loupedeck.Service.ProfileLayoutButton, LoupedeckService",
+                                "pressAction": "$@Generic___@ProfileAction___E67E30EA8309B3939D315145C1A3FF2D",
+                                "fnPressAction": null
+                            },
+                            {
+                                "$type": "Loupedeck.Service.ProfileLayoutButton, LoupedeckService",
+                                "pressAction": "$@Generic___@ProfileAction___11CDA2235272425DCE7C595418C944FB",
+                                "fnPressAction": null
+                            },
+                            {
+                                "$type": "Loupedeck.Service.ProfileLayoutButton, LoupedeckService",
+                                "pressAction": "$@Generic___@ProfileAction___8D22280F66736BD4122F73804C323CFD",
+                                "fnPressAction": null
+                            },
+                            {
+                                "$type": "Loupedeck.Service.ProfileLayoutButton, LoupedeckService",
+                                "pressAction": "$@Generic___@ProfileAction___191E70711831CBDB8A18831A2009CC2D",
+                                "fnPressAction": null
+                            },
+                            {
+                                "$type": "Loupedeck.Service.ProfileLayoutButton, LoupedeckService",
+                                "pressAction": "$@Generic___@ProfileAction___32AF4A267BCE0DD11B483499B351CAD9",
+                                "fnPressAction": null
+                            },
+                            {
+                                "$type": "Loupedeck.Service.ProfileLayoutButton, LoupedeckService",
+                                "pressAction": "$@Generic___@ProfileAction___A62E52F19270512827A3BAB6D33ECAE0",
+                                "fnPressAction": null
+                            },
+                            {
+                                "$type": "Loupedeck.Service.ProfileLayoutButton, LoupedeckService",
+                                "pressAction": "$@Generic___@ProfileAction___F0BD74D9F0489331D09E2D974020852E",
+                                "fnPressAction": null
+                            },
+                            {
+                                "$type": "Loupedeck.Service.ProfileLayoutButton, LoupedeckService",
+                                "pressAction": "$@Generic___@ProfileAction___B48B61AF8F04327BBB027883C91D69FE",
+                                "fnPressAction": null
+                            },
+                            {
+                                "$type": "Loupedeck.Service.ProfileLayoutButton, LoupedeckService",
+                                "pressAction": "$@Generic___@ProfileAction___789BFECDABD5F3C07C7F9949964B4E50",
+                                "fnPressAction": null
+                            },
+                            {
+                                "$type": "Loupedeck.Service.ProfileLayoutButton, LoupedeckService",
+                                "pressAction": null,
+                                "fnPressAction": null
+                            },
+                            {
+                                "$type": "Loupedeck.Service.ProfileLayoutButton, LoupedeckService",
+                                "pressAction": null,
+                                "fnPressAction": null
+                            },
+                            {
+                                "$type": "Loupedeck.Service.ProfileLayoutButton, LoupedeckService",
+                                "pressAction": null,
+                                "fnPressAction": null
+                            }
+                        ],
+                        "dynamicPageName": null,
+                        "dynamicPagePluginName": null,
+                        "dynamicPageNumber": 0
+                    },
+                    {
+                        "$type": "Loupedeck.Service.ProfileLayoutButtonPage, LoupedeckService",
+                        "name": "4FAC6BFAEB5149D2A30B1487FF928BBA",
+                        "displayName": "Skills",
+                        "description": null,
+                        "controls": [
+                            {
+                                "$type": "Loupedeck.Service.ProfileLayoutButton, LoupedeckService",
+                                "pressAction": "$@Generic___@Macro___CC96A2EE2DD94B18ACAD8E5D33700CE0",
+                                "fnPressAction": null
+                            },
+                            {
+                                "$type": "Loupedeck.Service.ProfileLayoutButton, LoupedeckService",
+                                "pressAction": "$@Generic___@Macro___9437119AFC07454EA11E0E02D4AF25CF",
+                                "fnPressAction": null
+                            },
+                            {
+                                "$type": "Loupedeck.Service.ProfileLayoutButton, LoupedeckService",
+                                "pressAction": "$@Generic___@Macro___00AD64EDE9474C53A423E195803FE3ED",
+                                "fnPressAction": null
+                            },
+                            {
+                                "$type": "Loupedeck.Service.ProfileLayoutButton, LoupedeckService",
+                                "pressAction": "$@Generic___@Macro___40E19C0B37A54E89B3C3BE9493B88E37",
+                                "fnPressAction": null
+                            },
+                            {
+                                "$type": "Loupedeck.Service.ProfileLayoutButton, LoupedeckService",
+                                "pressAction": "$@Generic___@Macro___3A3F57BD587A47E7A99ACBC02E95EBA8",
+                                "fnPressAction": null
+                            },
+                            {
+                                "$type": "Loupedeck.Service.ProfileLayoutButton, LoupedeckService",
+                                "pressAction": "$@Generic___@Macro___29494D515259486BAF75185FC335397D",
+                                "fnPressAction": null
+                            },
+                            {
+                                "$type": "Loupedeck.Service.ProfileLayoutButton, LoupedeckService",
+                                "pressAction": "$@Generic___@Macro___5E3B7E1944E249E68B3D4C1FCD350F66",
+                                "fnPressAction": null
+                            },
+                            {
+                                "$type": "Loupedeck.Service.ProfileLayoutButton, LoupedeckService",
+                                "pressAction": "$@Generic___@Macro___6DCDCC3644DF4C2595AABE1B69148E23",
+                                "fnPressAction": null
+                            },
+                            {
+                                "$type": "Loupedeck.Service.ProfileLayoutButton, LoupedeckService",
+                                "pressAction": "$@Generic___@Macro___F7CDF50C1CB74ABEA4FA179C66141E10",
+                                "fnPressAction": null
+                            },
+                            {
+                                "$type": "Loupedeck.Service.ProfileLayoutButton, LoupedeckService",
+                                "pressAction": "$@Generic___@Macro___51C067C111C548358C0BFEC2AFCAE3C5",
+                                "fnPressAction": null
+                            },
+                            {
+                                "$type": "Loupedeck.Service.ProfileLayoutButton, LoupedeckService",
+                                "pressAction": "$@Generic___@Macro___E79FB64AF35E480582EF63485376EC9F",
+                                "fnPressAction": null
+                            },
+                            {
+                                "$type": "Loupedeck.Service.ProfileLayoutButton, LoupedeckService",
+                                "pressAction": "$@Generic___@Macro___B94F3B94D3434530B903C0ACDBD17298",
+                                "fnPressAction": null
+                            },
+                            {
+                                "$type": "Loupedeck.Service.ProfileLayoutButton, LoupedeckService",
+                                "pressAction": null,
+                                "fnPressAction": null
+                            },
+                            {
+                                "$type": "Loupedeck.Service.ProfileLayoutButton, LoupedeckService",
+                                "pressAction": null,
+                                "fnPressAction": null
+                            },
+                            {
+                                "$type": "Loupedeck.Service.ProfileLayoutButton, LoupedeckService",
+                                "pressAction": null,
+                                "fnPressAction": null
+                            }
+                        ],
+                        "dynamicPageName": null,
+                        "dynamicPagePluginName": null,
+                        "dynamicPageNumber": 0
+                    },
+                    {
+                        "$type": "Loupedeck.Service.ProfileLayoutButtonPage, LoupedeckService",
+                        "name": "AF50425E8816A769CEEE5C3553BA15CD",
+                        "displayName": "Quick Text",
+                        "description": null,
+                        "controls": [
+                            {
+                                "$type": "Loupedeck.Service.ProfileLayoutButton, LoupedeckService",
+                                "pressAction": "$@Generic___@Macro___B9C16D7DC006C74E0A3D76ABD21978DB",
+                                "fnPressAction": null
+                            },
+                            {
+                                "$type": "Loupedeck.Service.ProfileLayoutButton, LoupedeckService",
+                                "pressAction": "$@Generic___@Macro___6D3B4271C7B63447FAD294E5FADAE415",
+                                "fnPressAction": null
+                            },
+                            {
+                                "$type": "Loupedeck.Service.ProfileLayoutButton, LoupedeckService",
+                                "pressAction": "$@Generic___@Macro___A26DAB88287E5BE26FE038A7E01FBF23",
+                                "fnPressAction": null
+                            },
+                            {
+                                "$type": "Loupedeck.Service.ProfileLayoutButton, LoupedeckService",
+                                "pressAction": "$@Generic___@Macro___B391B380F39F91BA2FC1646CDEECF8D3",
+                                "fnPressAction": null
+                            },
+                            {
+                                "$type": "Loupedeck.Service.ProfileLayoutButton, LoupedeckService",
+                                "pressAction": "$@Generic___@Macro___F2B265CD9A76298BFBDE9E2513B19B56",
+                                "fnPressAction": null
+                            },
+                            {
+                                "$type": "Loupedeck.Service.ProfileLayoutButton, LoupedeckService",
+                                "pressAction": "$@Generic___@Macro___0AC76802E3E6971CC491246A0F8D05B6",
+                                "fnPressAction": null
+                            },
+                            {
+                                "$type": "Loupedeck.Service.ProfileLayoutButton, LoupedeckService",
+                                "pressAction": "$@Generic___@Macro___106199C2ADAFD4CEA5BAAE2F84A043BD",
+                                "fnPressAction": null
+                            },
+                            {
+                                "$type": "Loupedeck.Service.ProfileLayoutButton, LoupedeckService",
+                                "pressAction": "$@Generic___@Macro___C3091A649EE4A666D8731008437E8A7A",
+                                "fnPressAction": null
+                            },
+                            {
+                                "$type": "Loupedeck.Service.ProfileLayoutButton, LoupedeckService",
+                                "pressAction": "$@Generic___@Macro___CAB8350920D2BEA4D4CF9E1D73564393",
+                                "fnPressAction": null
+                            },
+                            {
+                                "$type": "Loupedeck.Service.ProfileLayoutButton, LoupedeckService",
+                                "pressAction": "$@Generic___@Macro___192DD2DFEDE58806F04319BFBDA28029",
+                                "fnPressAction": null
+                            },
+                            {
+                                "$type": "Loupedeck.Service.ProfileLayoutButton, LoupedeckService",
+                                "pressAction": "$@Generic___@Macro___E36614ED4C7CCA679D245DD72A05D4DA",
+                                "fnPressAction": null
+                            },
+                            {
+                                "$type": "Loupedeck.Service.ProfileLayoutButton, LoupedeckService",
+                                "pressAction": "$@Generic___@Macro___F7C7AA00540DE4C80A6BB18EB6A53300",
+                                "fnPressAction": null
+                            },
+                            {
+                                "$type": "Loupedeck.Service.ProfileLayoutButton, LoupedeckService",
+                                "pressAction": null,
+                                "fnPressAction": null
+                            },
+                            {
+                                "$type": "Loupedeck.Service.ProfileLayoutButton, LoupedeckService",
+                                "pressAction": null,
+                                "fnPressAction": null
+                            },
+                            {
+                                "$type": "Loupedeck.Service.ProfileLayoutButton, LoupedeckService",
+                                "pressAction": null,
+                                "fnPressAction": null
+                            }
+                        ],
+                        "dynamicPageName": null,
+                        "dynamicPagePluginName": null,
+                        "dynamicPageNumber": 0
+                    },
+                    {
+                        "$type": "Loupedeck.Service.ProfileLayoutButtonPage, LoupedeckService",
+                        "name": "7BD637EE24E4C4797E31A1B686C8F17E",
+                        "displayName": "Personal",
+                        "description": null,
+                        "controls": [
+                            {
+                                "$type": "Loupedeck.Service.ProfileLayoutButton, LoupedeckService",
+                                "pressAction": "$@Generic___@Macro___2C102E8923513FE0C937D7EFD9BE5E99",
+                                "fnPressAction": null
+                            },
+                            {
+                                "$type": "Loupedeck.Service.ProfileLayoutButton, LoupedeckService",
+                                "pressAction": "$@Generic___@Macro___924B3A6C816130EF076DC8D6CD2EF912",
+                                "fnPressAction": null
+                            },
+                            {
+                                "$type": "Loupedeck.Service.ProfileLayoutButton, LoupedeckService",
+                                "pressAction": "$@Generic___@Macro___F21A7B3522F0EDE61CBA10CFB8E25D54",
+                                "fnPressAction": null
+                            },
+                            {
+                                "$type": "Loupedeck.Service.ProfileLayoutButton, LoupedeckService",
+                                "pressAction": "$@Generic___@Macro___9E9A7112F40BEBE11F074AF302960D0D",
+                                "fnPressAction": null
+                            },
+                            {
+                                "$type": "Loupedeck.Service.ProfileLayoutButton, LoupedeckService",
+                                "pressAction": "$@Generic___@Macro___6750817E843230E3DEE1EFC012A555FA",
+                                "fnPressAction": null
+                            },
+                            {
+                                "$type": "Loupedeck.Service.ProfileLayoutButton, LoupedeckService",
+                                "pressAction": "$@Generic___@Macro___617921D7806A8602812881054BB5AB49",
+                                "fnPressAction": null
+                            },
+                            {
+                                "$type": "Loupedeck.Service.ProfileLayoutButton, LoupedeckService",
+                                "pressAction": "$@Generic___@Macro___5ED681B5EC723730742644A497202093",
+                                "fnPressAction": null
+                            },
+                            {
+                                "$type": "Loupedeck.Service.ProfileLayoutButton, LoupedeckService",
+                                "pressAction": "$@Generic___@Macro___C338235AC3DE22082E9C90A5D28E01CE",
+                                "fnPressAction": null
+                            },
+                            {
+                                "$type": "Loupedeck.Service.ProfileLayoutButton, LoupedeckService",
+                                "pressAction": "$@Generic___@Macro___0D278DF19D6090E4AC8A409954E54644",
+                                "fnPressAction": null
+                            },
+                            {
+                                "$type": "Loupedeck.Service.ProfileLayoutButton, LoupedeckService",
+                                "pressAction": "$@Generic___@Macro___C98702B754B8841656F678FEF4F55191",
+                                "fnPressAction": null
+                            },
+                            {
+                                "$type": "Loupedeck.Service.ProfileLayoutButton, LoupedeckService",
+                                "pressAction": "$@Generic___@Macro___120CBA0647BBC16A645629F04E55FB36",
+                                "fnPressAction": null
+                            },
+                            {
+                                "$type": "Loupedeck.Service.ProfileLayoutButton, LoupedeckService",
+                                "pressAction": "$@Generic___@Macro___F4E0A60333A08809F5F6CEA646522C5B",
+                                "fnPressAction": null
+                            },
+                            {
+                                "$type": "Loupedeck.Service.ProfileLayoutButton, LoupedeckService",
+                                "pressAction": null,
+                                "fnPressAction": null
+                            },
+                            {
+                                "$type": "Loupedeck.Service.ProfileLayoutButton, LoupedeckService",
+                                "pressAction": null,
+                                "fnPressAction": null
+                            },
+                            {
+                                "$type": "Loupedeck.Service.ProfileLayoutButton, LoupedeckService",
+                                "pressAction": null,
+                                "fnPressAction": null
+                            }
+                        ],
+                        "dynamicPageName": null,
+                        "dynamicPagePluginName": null,
+                        "dynamicPageNumber": 0
+                    },
+                    {
+                        "$type": "Loupedeck.Service.ProfileLayoutButtonPage, LoupedeckService",
+                        "name": "5CD3D04DD2171DC81F4E93BA4291A91C",
+                        "displayName": "Create",
+                        "description": null,
+                        "controls": [
+                            {
+                                "$type": "Loupedeck.Service.ProfileLayoutButton, LoupedeckService",
+                                "pressAction": "$@Generic___@Macro___C4EB540515AA5AC91C66ECCAA62FCEA8",
+                                "fnPressAction": null
+                            },
+                            {
+                                "$type": "Loupedeck.Service.ProfileLayoutButton, LoupedeckService",
+                                "pressAction": "$@Generic___@Macro___E1D7B7DB65D2DC79E16F3BF168DC99F7",
+                                "fnPressAction": null
+                            },
+                            {
+                                "$type": "Loupedeck.Service.ProfileLayoutButton, LoupedeckService",
+                                "pressAction": "$@Generic___@Macro___E453E206C072382EBFFD4285C7FE906B",
+                                "fnPressAction": null
+                            },
+                            {
+                                "$type": "Loupedeck.Service.ProfileLayoutButton, LoupedeckService",
+                                "pressAction": "$@Generic___@Macro___59A98A3F76DA4E4F40A2FC7BFA078796",
+                                "fnPressAction": null
+                            },
+                            {
+                                "$type": "Loupedeck.Service.ProfileLayoutButton, LoupedeckService",
+                                "pressAction": "$@Generic___@Macro___D67BD2ED7054389DD17EFAE8AF78F461",
+                                "fnPressAction": null
+                            },
+                            {
+                                "$type": "Loupedeck.Service.ProfileLayoutButton, LoupedeckService",
+                                "pressAction": "$@Generic___@Macro___C1C06E9C1CB9B50EC17820AF1471F8F5",
+                                "fnPressAction": null
+                            },
+                            {
+                                "$type": "Loupedeck.Service.ProfileLayoutButton, LoupedeckService",
+                                "pressAction": "$@Generic___@Macro___8E0E77B94E882204C046E3230226E037",
+                                "fnPressAction": null
+                            },
+                            {
+                                "$type": "Loupedeck.Service.ProfileLayoutButton, LoupedeckService",
+                                "pressAction": "$@Generic___@Macro___1D7E675D9A96871B44BD09252A85591B",
+                                "fnPressAction": null
+                            },
+                            {
+                                "$type": "Loupedeck.Service.ProfileLayoutButton, LoupedeckService",
+                                "pressAction": "$@Generic___@Macro___64D9922E8CF45C0692D49EDC3F2FBDED",
+                                "fnPressAction": null
+                            },
+                            {
+                                "$type": "Loupedeck.Service.ProfileLayoutButton, LoupedeckService",
+                                "pressAction": "$@Generic___@Macro___A688C66F8F5B357D642F07EDE6E4D269",
+                                "fnPressAction": null
+                            },
+                            {
+                                "$type": "Loupedeck.Service.ProfileLayoutButton, LoupedeckService",
+                                "pressAction": "$@Generic___@Macro___4664415A5A3A198EFD4AF0AFA72AC9F4",
+                                "fnPressAction": null
+                            },
+                            {
+                                "$type": "Loupedeck.Service.ProfileLayoutButton, LoupedeckService",
+                                "pressAction": "$@Generic___@Macro___E838D302AAA2C22D0F47439DE4A6E7B3",
+                                "fnPressAction": null
+                            },
+                            {
+                                "$type": "Loupedeck.Service.ProfileLayoutButton, LoupedeckService",
+                                "pressAction": null,
+                                "fnPressAction": null
+                            },
+                            {
+                                "$type": "Loupedeck.Service.ProfileLayoutButton, LoupedeckService",
+                                "pressAction": null,
+                                "fnPressAction": null
+                            },
+                            {
+                                "$type": "Loupedeck.Service.ProfileLayoutButton, LoupedeckService",
+                                "pressAction": null,
+                                "fnPressAction": null
+                            }
+                        ],
+                        "dynamicPageName": null,
+                        "dynamicPagePluginName": null,
+                        "dynamicPageNumber": 0
+                    },
+                    {
+                        "$type": "Loupedeck.Service.ProfileLayoutButtonPage, LoupedeckService",
+                        "name": "759FCAB52B3090FD81B246C6F8394CF7",
+                        "displayName": "Operate",
+                        "description": null,
+                        "controls": [
+                            {
+                                "$type": "Loupedeck.Service.ProfileLayoutButton, LoupedeckService",
+                                "pressAction": "$@Generic___@Macro___29000A7BBD3E7D054E46E1DEC3AB80C6",
+                                "fnPressAction": null
+                            },
+                            {
+                                "$type": "Loupedeck.Service.ProfileLayoutButton, LoupedeckService",
+                                "pressAction": "$@Generic___@Macro___B28BE10E3D892E0929057545FD6EE70B",
+                                "fnPressAction": null
+                            },
+                            {
+                                "$type": "Loupedeck.Service.ProfileLayoutButton, LoupedeckService",
+                                "pressAction": "$@Generic___@Macro___585A2A6AD9187E95CAEFFD80F218B4D8",
+                                "fnPressAction": null
+                            },
+                            {
+                                "$type": "Loupedeck.Service.ProfileLayoutButton, LoupedeckService",
+                                "pressAction": "$@Generic___@Macro___03BF5EFC213583144470C1B530C8F215",
+                                "fnPressAction": null
+                            },
+                            {
+                                "$type": "Loupedeck.Service.ProfileLayoutButton, LoupedeckService",
+                                "pressAction": "$@Generic___@Macro___A16A13105FB06985490FEFDFCB4BB1AF",
+                                "fnPressAction": null
+                            },
+                            {
+                                "$type": "Loupedeck.Service.ProfileLayoutButton, LoupedeckService",
+                                "pressAction": "$@Generic___@Macro___78E412EFDDAA3EDD574B21DAF6C4221B",
+                                "fnPressAction": null
+                            },
+                            {
+                                "$type": "Loupedeck.Service.ProfileLayoutButton, LoupedeckService",
+                                "pressAction": "$@Generic___@Macro___A573B40FEC6A81DE9E9A5BE83B6ADF79",
+                                "fnPressAction": null
+                            },
+                            {
+                                "$type": "Loupedeck.Service.ProfileLayoutButton, LoupedeckService",
+                                "pressAction": "$@Generic___@Macro___46917451C0ADA645994C29D47EE199F5",
+                                "fnPressAction": null
+                            },
+                            {
+                                "$type": "Loupedeck.Service.ProfileLayoutButton, LoupedeckService",
+                                "pressAction": "$@Generic___@Macro___50BEA4F46DF9721A058B88DE2F4F4BB9",
+                                "fnPressAction": null
+                            },
+                            {
+                                "$type": "Loupedeck.Service.ProfileLayoutButton, LoupedeckService",
+                                "pressAction": "$@Generic___@Macro___46F78C8778B03943A9173326288B4124",
+                                "fnPressAction": null
+                            },
+                            {
+                                "$type": "Loupedeck.Service.ProfileLayoutButton, LoupedeckService",
+                                "pressAction": "$@Generic___@Macro___9CB15342AA42CA2D3B5897DE7157E686",
+                                "fnPressAction": null
+                            },
+                            {
+                                "$type": "Loupedeck.Service.ProfileLayoutButton, LoupedeckService",
+                                "pressAction": "$@Generic___@Macro___6827D4F953ADDFC9E9240AD7160393E3",
+                                "fnPressAction": null
+                            },
+                            {
+                                "$type": "Loupedeck.Service.ProfileLayoutButton, LoupedeckService",
+                                "pressAction": null,
+                                "fnPressAction": null
+                            },
+                            {
+                                "$type": "Loupedeck.Service.ProfileLayoutButton, LoupedeckService",
+                                "pressAction": null,
+                                "fnPressAction": null
+                            },
+                            {
+                                "$type": "Loupedeck.Service.ProfileLayoutButton, LoupedeckService",
+                                "pressAction": null,
+                                "fnPressAction": null
+                            }
+                        ],
+                        "dynamicPageName": null,
+                        "dynamicPagePluginName": null,
+                        "dynamicPageNumber": 0
+                    }
+                ],
+                "encoderPages": [
+                    {
+                        "$type": "Loupedeck.Service.ProfileLayoutEncoderPage, LoupedeckService",
+                        "name": "E0DEBE510BE24D6994171B1EBF90778D",
+                        "displayName": "Codex Dials",
+                        "description": null,
+                        "controls": [
+                            {
+                                "$type": "Loupedeck.Service.ProfileLayoutEncoder, LoupedeckService",
+                                "pressAction": "$@Generic___@ProfileAction___789BFECDABD5F3C07C7F9949964B4E50",
+                                "fnPressAction": null,
+                                "rotateAction": "$@Generic___@MacroAdjustment___7B8512A6460A086757BCF76359A9FB21",
+                                "fnRotateAction": null
+                            },
+                            {
+                                "$type": "Loupedeck.Service.ProfileLayoutEncoder, LoupedeckService",
+                                "pressAction": null,
+                                "fnPressAction": null,
+                                "rotateAction": "$@Generic___@MacroAdjustment___F64C518638A27492C3721B649444F315",
+                                "fnRotateAction": null
+                            },
+                            {
+                                "$type": "Loupedeck.Service.ProfileLayoutEncoder, LoupedeckService",
+                                "pressAction": "$@Generic___@ProfileAction___0BC02DA01B7947391293B70923469E87",
+                                "fnPressAction": null,
+                                "rotateAction": "$@Generic___@MacroAdjustment___FE8E8F27542E1F530FECD6DAFDD9C17D",
+                                "fnRotateAction": null
+                            },
+                            {
+                                "$type": "Loupedeck.Service.ProfileLayoutEncoder, LoupedeckService",
+                                "pressAction": "$@Generic___@ProfileAction___D69889679D8697B4C290370B980CA905",
+                                "fnPressAction": null,
+                                "rotateAction": "$@Generic___@MacroAdjustment___FDBDFC96479056EEFB30762BF6E09A00",
+                                "fnRotateAction": null
+                            },
+                            {
+                                "$type": "Loupedeck.Service.ProfileLayoutEncoder, LoupedeckService",
+                                "pressAction": "$DefaultMac___ResetVolume",
+                                "fnPressAction": null,
+                                "rotateAction": "$DefaultMac___Volume",
+                                "fnRotateAction": null
+                            },
+                            {
+                                "$type": "Loupedeck.Service.ProfileLayoutEncoder, LoupedeckService",
+                                "pressAction": "$@Generic___@ProfileAction___4C6F522605FB2E35637FC183BB55C9F2",
+                                "fnPressAction": null,
+                                "rotateAction": "$@Generic___@MacroAdjustment___7EC4D41A64F0662A34692BD6054DAAF2",
+                                "fnRotateAction": null
+                            }
+                        ],
+                        "dynamicPageName": null,
+                        "dynamicPagePluginName": null,
+                        "dynamicPageNumber": 0
+                    },
+                    {
+                        "$type": "Loupedeck.Service.ProfileLayoutEncoderPage, LoupedeckService",
+                        "name": "B55A23FA78604BBFBE8D1DED56CAD29E",
+                        "displayName": "Codex Dials",
+                        "description": null,
+                        "controls": [
+                            {
+                                "$type": "Loupedeck.Service.ProfileLayoutEncoder, LoupedeckService",
+                                "pressAction": "$@Generic___@ProfileAction___789BFECDABD5F3C07C7F9949964B4E50",
+                                "fnPressAction": null,
+                                "rotateAction": "$@Generic___@MacroAdjustment___7B8512A6460A086757BCF76359A9FB21",
+                                "fnRotateAction": null
+                            },
+                            {
+                                "$type": "Loupedeck.Service.ProfileLayoutEncoder, LoupedeckService",
+                                "pressAction": null,
+                                "fnPressAction": null,
+                                "rotateAction": "$@Generic___@MacroAdjustment___F64C518638A27492C3721B649444F315",
+                                "fnRotateAction": null
+                            },
+                            {
+                                "$type": "Loupedeck.Service.ProfileLayoutEncoder, LoupedeckService",
+                                "pressAction": "$@Generic___@ProfileAction___0BC02DA01B7947391293B70923469E87",
+                                "fnPressAction": null,
+                                "rotateAction": "$@Generic___@MacroAdjustment___FE8E8F27542E1F530FECD6DAFDD9C17D",
+                                "fnRotateAction": null
+                            },
+                            {
+                                "$type": "Loupedeck.Service.ProfileLayoutEncoder, LoupedeckService",
+                                "pressAction": "$@Generic___@ProfileAction___D69889679D8697B4C290370B980CA905",
+                                "fnPressAction": null,
+                                "rotateAction": "$@Generic___@MacroAdjustment___FDBDFC96479056EEFB30762BF6E09A00",
+                                "fnRotateAction": null
+                            },
+                            {
+                                "$type": "Loupedeck.Service.ProfileLayoutEncoder, LoupedeckService",
+                                "pressAction": "$DefaultMac___ResetVolume",
+                                "fnPressAction": null,
+                                "rotateAction": "$DefaultMac___Volume",
+                                "fnRotateAction": null
+                            },
+                            {
+                                "$type": "Loupedeck.Service.ProfileLayoutEncoder, LoupedeckService",
+                                "pressAction": "$@Generic___@ProfileAction___4C6F522605FB2E35637FC183BB55C9F2",
+                                "fnPressAction": null,
+                                "rotateAction": "$@Generic___@MacroAdjustment___7EC4D41A64F0662A34692BD6054DAAF2",
+                                "fnRotateAction": null
+                            }
+                        ],
+                        "dynamicPageName": null,
+                        "dynamicPagePluginName": null,
+                        "dynamicPageNumber": 0
+                    },
+                    {
+                        "$type": "Loupedeck.Service.ProfileLayoutEncoderPage, LoupedeckService",
+                        "name": "39AE617FF1264138A0040AE33FF0AE17",
+                        "displayName": "Codex Dials",
+                        "description": null,
+                        "controls": [
+                            {
+                                "$type": "Loupedeck.Service.ProfileLayoutEncoder, LoupedeckService",
+                                "pressAction": "$@Generic___@ProfileAction___789BFECDABD5F3C07C7F9949964B4E50",
+                                "fnPressAction": null,
+                                "rotateAction": "$@Generic___@MacroAdjustment___7B8512A6460A086757BCF76359A9FB21",
+                                "fnRotateAction": null
+                            },
+                            {
+                                "$type": "Loupedeck.Service.ProfileLayoutEncoder, LoupedeckService",
+                                "pressAction": null,
+                                "fnPressAction": null,
+                                "rotateAction": "$@Generic___@MacroAdjustment___F64C518638A27492C3721B649444F315",
+                                "fnRotateAction": null
+                            },
+                            {
+                                "$type": "Loupedeck.Service.ProfileLayoutEncoder, LoupedeckService",
+                                "pressAction": "$@Generic___@ProfileAction___0BC02DA01B7947391293B70923469E87",
+                                "fnPressAction": null,
+                                "rotateAction": "$@Generic___@MacroAdjustment___FE8E8F27542E1F530FECD6DAFDD9C17D",
+                                "fnRotateAction": null
+                            },
+                            {
+                                "$type": "Loupedeck.Service.ProfileLayoutEncoder, LoupedeckService",
+                                "pressAction": "$@Generic___@ProfileAction___D69889679D8697B4C290370B980CA905",
+                                "fnPressAction": null,
+                                "rotateAction": "$@Generic___@MacroAdjustment___FDBDFC96479056EEFB30762BF6E09A00",
+                                "fnRotateAction": null
+                            },
+                            {
+                                "$type": "Loupedeck.Service.ProfileLayoutEncoder, LoupedeckService",
+                                "pressAction": "$DefaultMac___ResetVolume",
+                                "fnPressAction": null,
+                                "rotateAction": "$DefaultMac___Volume",
+                                "fnRotateAction": null
+                            },
+                            {
+                                "$type": "Loupedeck.Service.ProfileLayoutEncoder, LoupedeckService",
+                                "pressAction": "$@Generic___@ProfileAction___4C6F522605FB2E35637FC183BB55C9F2",
+                                "fnPressAction": null,
+                                "rotateAction": "$@Generic___@MacroAdjustment___7EC4D41A64F0662A34692BD6054DAAF2",
+                                "fnRotateAction": null
+                            }
+                        ],
+                        "dynamicPageName": null,
+                        "dynamicPagePluginName": null,
+                        "dynamicPageNumber": 0
+                    },
+                    {
+                        "$type": "Loupedeck.Service.ProfileLayoutEncoderPage, LoupedeckService",
+                        "name": "1BE23F3F907D41926E4799BF07BB7D10",
+                        "displayName": "Codex Dials",
+                        "description": null,
+                        "controls": [
+                            {
+                                "$type": "Loupedeck.Service.ProfileLayoutEncoder, LoupedeckService",
+                                "pressAction": "$@Generic___@ProfileAction___789BFECDABD5F3C07C7F9949964B4E50",
+                                "fnPressAction": null,
+                                "rotateAction": "$@Generic___@MacroAdjustment___7B8512A6460A086757BCF76359A9FB21",
+                                "fnRotateAction": null
+                            },
+                            {
+                                "$type": "Loupedeck.Service.ProfileLayoutEncoder, LoupedeckService",
+                                "pressAction": null,
+                                "fnPressAction": null,
+                                "rotateAction": "$@Generic___@MacroAdjustment___F64C518638A27492C3721B649444F315",
+                                "fnRotateAction": null
+                            },
+                            {
+                                "$type": "Loupedeck.Service.ProfileLayoutEncoder, LoupedeckService",
+                                "pressAction": "$@Generic___@ProfileAction___0BC02DA01B7947391293B70923469E87",
+                                "fnPressAction": null,
+                                "rotateAction": "$@Generic___@MacroAdjustment___FE8E8F27542E1F530FECD6DAFDD9C17D",
+                                "fnRotateAction": null
+                            },
+                            {
+                                "$type": "Loupedeck.Service.ProfileLayoutEncoder, LoupedeckService",
+                                "pressAction": "$@Generic___@ProfileAction___D69889679D8697B4C290370B980CA905",
+                                "fnPressAction": null,
+                                "rotateAction": "$@Generic___@MacroAdjustment___FDBDFC96479056EEFB30762BF6E09A00",
+                                "fnRotateAction": null
+                            },
+                            {
+                                "$type": "Loupedeck.Service.ProfileLayoutEncoder, LoupedeckService",
+                                "pressAction": "$DefaultMac___ResetVolume",
+                                "fnPressAction": null,
+                                "rotateAction": "$DefaultMac___Volume",
+                                "fnRotateAction": null
+                            },
+                            {
+                                "$type": "Loupedeck.Service.ProfileLayoutEncoder, LoupedeckService",
+                                "pressAction": "$@Generic___@ProfileAction___4C6F522605FB2E35637FC183BB55C9F2",
+                                "fnPressAction": null,
+                                "rotateAction": "$@Generic___@MacroAdjustment___7EC4D41A64F0662A34692BD6054DAAF2",
+                                "fnRotateAction": null
+                            }
+                        ],
+                        "dynamicPageName": null,
+                        "dynamicPagePluginName": null,
+                        "dynamicPageNumber": 0
+                    },
+                    {
+                        "$type": "Loupedeck.Service.ProfileLayoutEncoderPage, LoupedeckService",
+                        "name": "7BB3355B898C3A48E3EEB06632FD1AA4",
+                        "displayName": "Codex Dials",
+                        "description": null,
+                        "controls": [
+                            {
+                                "$type": "Loupedeck.Service.ProfileLayoutEncoder, LoupedeckService",
+                                "pressAction": "$@Generic___@ProfileAction___789BFECDABD5F3C07C7F9949964B4E50",
+                                "fnPressAction": null,
+                                "rotateAction": "$@Generic___@MacroAdjustment___7B8512A6460A086757BCF76359A9FB21",
+                                "fnRotateAction": null
+                            },
+                            {
+                                "$type": "Loupedeck.Service.ProfileLayoutEncoder, LoupedeckService",
+                                "pressAction": null,
+                                "fnPressAction": null,
+                                "rotateAction": "$@Generic___@MacroAdjustment___F64C518638A27492C3721B649444F315",
+                                "fnRotateAction": null
+                            },
+                            {
+                                "$type": "Loupedeck.Service.ProfileLayoutEncoder, LoupedeckService",
+                                "pressAction": "$@Generic___@ProfileAction___0BC02DA01B7947391293B70923469E87",
+                                "fnPressAction": null,
+                                "rotateAction": "$@Generic___@MacroAdjustment___FE8E8F27542E1F530FECD6DAFDD9C17D",
+                                "fnRotateAction": null
+                            },
+                            {
+                                "$type": "Loupedeck.Service.ProfileLayoutEncoder, LoupedeckService",
+                                "pressAction": "$@Generic___@ProfileAction___D69889679D8697B4C290370B980CA905",
+                                "fnPressAction": null,
+                                "rotateAction": "$@Generic___@MacroAdjustment___FDBDFC96479056EEFB30762BF6E09A00",
+                                "fnRotateAction": null
+                            },
+                            {
+                                "$type": "Loupedeck.Service.ProfileLayoutEncoder, LoupedeckService",
+                                "pressAction": "$DefaultMac___ResetVolume",
+                                "fnPressAction": null,
+                                "rotateAction": "$DefaultMac___Volume",
+                                "fnRotateAction": null
+                            },
+                            {
+                                "$type": "Loupedeck.Service.ProfileLayoutEncoder, LoupedeckService",
+                                "pressAction": "$@Generic___@ProfileAction___4C6F522605FB2E35637FC183BB55C9F2",
+                                "fnPressAction": null,
+                                "rotateAction": "$@Generic___@MacroAdjustment___7EC4D41A64F0662A34692BD6054DAAF2",
+                                "fnRotateAction": null
+                            }
+                        ],
+                        "dynamicPageName": null,
+                        "dynamicPagePluginName": null,
+                        "dynamicPageNumber": 0
+                    },
+                    {
+                        "$type": "Loupedeck.Service.ProfileLayoutEncoderPage, LoupedeckService",
+                        "name": "2B3616624DA3B24B21B6ABAA2AAD9C8A",
+                        "displayName": "Codex Dials",
+                        "description": null,
+                        "controls": [
+                            {
+                                "$type": "Loupedeck.Service.ProfileLayoutEncoder, LoupedeckService",
+                                "pressAction": "$@Generic___@ProfileAction___789BFECDABD5F3C07C7F9949964B4E50",
+                                "fnPressAction": null,
+                                "rotateAction": "$@Generic___@MacroAdjustment___7B8512A6460A086757BCF76359A9FB21",
+                                "fnRotateAction": null
+                            },
+                            {
+                                "$type": "Loupedeck.Service.ProfileLayoutEncoder, LoupedeckService",
+                                "pressAction": null,
+                                "fnPressAction": null,
+                                "rotateAction": "$@Generic___@MacroAdjustment___F64C518638A27492C3721B649444F315",
+                                "fnRotateAction": null
+                            },
+                            {
+                                "$type": "Loupedeck.Service.ProfileLayoutEncoder, LoupedeckService",
+                                "pressAction": "$@Generic___@ProfileAction___0BC02DA01B7947391293B70923469E87",
+                                "fnPressAction": null,
+                                "rotateAction": "$@Generic___@MacroAdjustment___FE8E8F27542E1F530FECD6DAFDD9C17D",
+                                "fnRotateAction": null
+                            },
+                            {
+                                "$type": "Loupedeck.Service.ProfileLayoutEncoder, LoupedeckService",
+                                "pressAction": "$@Generic___@ProfileAction___D69889679D8697B4C290370B980CA905",
+                                "fnPressAction": null,
+                                "rotateAction": "$@Generic___@MacroAdjustment___FDBDFC96479056EEFB30762BF6E09A00",
+                                "fnRotateAction": null
+                            },
+                            {
+                                "$type": "Loupedeck.Service.ProfileLayoutEncoder, LoupedeckService",
+                                "pressAction": "$DefaultMac___ResetVolume",
+                                "fnPressAction": null,
+                                "rotateAction": "$DefaultMac___Volume",
+                                "fnRotateAction": null
+                            },
+                            {
+                                "$type": "Loupedeck.Service.ProfileLayoutEncoder, LoupedeckService",
+                                "pressAction": "$@Generic___@ProfileAction___4C6F522605FB2E35637FC183BB55C9F2",
+                                "fnPressAction": null,
+                                "rotateAction": "$@Generic___@MacroAdjustment___7EC4D41A64F0662A34692BD6054DAAF2",
+                                "fnRotateAction": null
+                            }
+                        ],
+                        "dynamicPageName": null,
+                        "dynamicPagePluginName": null,
+                        "dynamicPageNumber": 0
+                    },
+                    {
+                        "$type": "Loupedeck.Service.ProfileLayoutEncoderPage, LoupedeckService",
+                        "name": "4AAC73F5ADF058DD5E1073CB1654881D",
+                        "displayName": "Codex Dials",
+                        "description": null,
+                        "controls": [
+                            {
+                                "$type": "Loupedeck.Service.ProfileLayoutEncoder, LoupedeckService",
+                                "pressAction": "$@Generic___@ProfileAction___789BFECDABD5F3C07C7F9949964B4E50",
+                                "fnPressAction": null,
+                                "rotateAction": "$@Generic___@MacroAdjustment___7B8512A6460A086757BCF76359A9FB21",
+                                "fnRotateAction": null
+                            },
+                            {
+                                "$type": "Loupedeck.Service.ProfileLayoutEncoder, LoupedeckService",
+                                "pressAction": null,
+                                "fnPressAction": null,
+                                "rotateAction": "$@Generic___@MacroAdjustment___F64C518638A27492C3721B649444F315",
+                                "fnRotateAction": null
+                            },
+                            {
+                                "$type": "Loupedeck.Service.ProfileLayoutEncoder, LoupedeckService",
+                                "pressAction": "$@Generic___@ProfileAction___0BC02DA01B7947391293B70923469E87",
+                                "fnPressAction": null,
+                                "rotateAction": "$@Generic___@MacroAdjustment___FE8E8F27542E1F530FECD6DAFDD9C17D",
+                                "fnRotateAction": null
+                            },
+                            {
+                                "$type": "Loupedeck.Service.ProfileLayoutEncoder, LoupedeckService",
+                                "pressAction": "$@Generic___@ProfileAction___D69889679D8697B4C290370B980CA905",
+                                "fnPressAction": null,
+                                "rotateAction": "$@Generic___@MacroAdjustment___FDBDFC96479056EEFB30762BF6E09A00",
+                                "fnRotateAction": null
+                            },
+                            {
+                                "$type": "Loupedeck.Service.ProfileLayoutEncoder, LoupedeckService",
+                                "pressAction": "$DefaultMac___ResetVolume",
+                                "fnPressAction": null,
+                                "rotateAction": "$DefaultMac___Volume",
+                                "fnRotateAction": null
+                            },
+                            {
+                                "$type": "Loupedeck.Service.ProfileLayoutEncoder, LoupedeckService",
+                                "pressAction": "$@Generic___@ProfileAction___4C6F522605FB2E35637FC183BB55C9F2",
+                                "fnPressAction": null,
+                                "rotateAction": "$@Generic___@MacroAdjustment___7EC4D41A64F0662A34692BD6054DAAF2",
+                                "fnRotateAction": null
+                            }
+                        ],
+                        "dynamicPageName": null,
+                        "dynamicPagePluginName": null,
+                        "dynamicPageNumber": 0
+                    }
+                ],
+                "wheelPages": [
+                    {
+                        "$type": "Loupedeck.Service.ProfileLayoutWheelPage, LoupedeckService",
+                        "name": "D164D555339F43CA857BF5E93F3F908E",
+                        "displayName": "Reasoning",
+                        "description": "Turn to lower or raise reasoning effort; tap to cycle.",
+                        "templateName": "CodexControlWheel___CodexControlReasoningWheel",
+                        "parameters": {
+                            "$type": "Loupedeck.StringDictionaryNoCase, PluginApi",
+                            "adjustment": "$@Generic___@MacroAdjustment___9F45A79E4E5757DC0A917EDF8C115919"
+                        }
+                    },
+                    {
+                        "$type": "Loupedeck.Service.ProfileLayoutWheelPage, LoupedeckService",
+                        "name": "724FE534DC3E45EC8141FC824DFBADCB",
+                        "displayName": "Reasoning",
+                        "description": "Turn to lower or raise reasoning effort; tap to cycle.",
+                        "templateName": "CodexControlWheel___CodexControlReasoningWheel",
+                        "parameters": {
+                            "$type": "Loupedeck.StringDictionaryNoCase, PluginApi",
+                            "adjustment": "$@Generic___@MacroAdjustment___9F45A79E4E5757DC0A917EDF8C115919"
+                        }
+                    },
+                    {
+                        "$type": "Loupedeck.Service.ProfileLayoutWheelPage, LoupedeckService",
+                        "name": "109EA8D8D7514250977C3D672F2F5659",
+                        "displayName": "Reasoning",
+                        "description": "Turn to lower or raise reasoning effort; tap to cycle.",
+                        "templateName": "CodexControlWheel___CodexControlReasoningWheel",
+                        "parameters": {
+                            "$type": "Loupedeck.StringDictionaryNoCase, PluginApi",
+                            "adjustment": "$@Generic___@MacroAdjustment___9F45A79E4E5757DC0A917EDF8C115919"
+                        }
+                    },
+                    {
+                        "$type": "Loupedeck.Service.ProfileLayoutWheelPage, LoupedeckService",
+                        "name": "677ABAE2AA02C8D38D2025EEA9E5F261",
+                        "displayName": "Reasoning",
+                        "description": "Turn to lower or raise reasoning effort; tap to cycle.",
+                        "templateName": "CodexControlWheel___CodexControlReasoningWheel",
+                        "parameters": {
+                            "$type": "Loupedeck.StringDictionaryNoCase, PluginApi",
+                            "adjustment": "$@Generic___@MacroAdjustment___9F45A79E4E5757DC0A917EDF8C115919"
+                        }
+                    },
+                    {
+                        "$type": "Loupedeck.Service.ProfileLayoutWheelPage, LoupedeckService",
+                        "name": "9BD0B1DF990AE6FD1C96CB32D3DD315E",
+                        "displayName": "Reasoning",
+                        "description": "Turn to lower or raise reasoning effort; tap to cycle.",
+                        "templateName": "CodexControlWheel___CodexControlReasoningWheel",
+                        "parameters": {
+                            "$type": "Loupedeck.StringDictionaryNoCase, PluginApi",
+                            "adjustment": "$@Generic___@MacroAdjustment___9F45A79E4E5757DC0A917EDF8C115919"
+                        }
+                    },
+                    {
+                        "$type": "Loupedeck.Service.ProfileLayoutWheelPage, LoupedeckService",
+                        "name": "8502092300D37F60A9BE533285E8E147",
+                        "displayName": "Reasoning",
+                        "description": "Turn to lower or raise reasoning effort; tap to cycle.",
+                        "templateName": "CodexControlWheel___CodexControlReasoningWheel",
+                        "parameters": {
+                            "$type": "Loupedeck.StringDictionaryNoCase, PluginApi",
+                            "adjustment": "$@Generic___@MacroAdjustment___9F45A79E4E5757DC0A917EDF8C115919"
+                        }
+                    },
+                    {
+                        "$type": "Loupedeck.Service.ProfileLayoutWheelPage, LoupedeckService",
+                        "name": "2435D57824B13B4EE9E7EB0D2BC18FF7",
+                        "displayName": "Reasoning",
+                        "description": "Turn to lower or raise reasoning effort; tap to cycle.",
+                        "templateName": "CodexControlWheel___CodexControlReasoningWheel",
+                        "parameters": {
+                            "$type": "Loupedeck.StringDictionaryNoCase, PluginApi",
+                            "adjustment": "$@Generic___@MacroAdjustment___9F45A79E4E5757DC0A917EDF8C115919"
+                        }
+                    }
+                ],
+                "workspaces": [
+                    {
+                        "$type": "Loupedeck.Service.ProfileLayoutWorkspace20, LoupedeckService",
+                        "name": "3976AAB2E3F847BC9EBD3438CD8DBA41",
+                        "displayName": "Command",
+                        "description": "Primary ChatGPT commands",
+                        "touchPageNames": [
+                            "256858CAE7C046A0A8FDA8F1B3B227E0"
+                        ],
+                        "encoderPageNames": [
+                            "E0DEBE510BE24D6994171B1EBF90778D"
+                        ],
+                        "wheelPageNames": [
+                            "D164D555339F43CA857BF5E93F3F908E"
+                        ],
+                        "activationActions": []
+                    },
+                    {
+                        "$type": "Loupedeck.Service.ProfileLayoutWorkspace20, LoupedeckService",
+                        "name": "2989E3DEBFF943439501BD90E996ED95",
+                        "displayName": "Agents",
+                        "description": "Task and agent navigation",
+                        "touchPageNames": [
+                            "D800CE4F5D2C49F9A91320BEE8E76DD1"
+                        ],
+                        "encoderPageNames": [
+                            "B55A23FA78604BBFBE8D1DED56CAD29E"
+                        ],
+                        "wheelPageNames": [
+                            "724FE534DC3E45EC8141FC824DFBADCB"
+                        ],
+                        "activationActions": []
+                    },
+                    {
+                        "$type": "Loupedeck.Service.ProfileLayoutWorkspace20, LoupedeckService",
+                        "name": "65AA1220FBE449708BB8017571699108",
+                        "displayName": "Skills",
+                        "description": "Review-first prompt starters",
+                        "touchPageNames": [
+                            "4FAC6BFAEB5149D2A30B1487FF928BBA"
+                        ],
+                        "encoderPageNames": [
+                            "39AE617FF1264138A0040AE33FF0AE17"
+                        ],
+                        "wheelPageNames": [
+                            "109EA8D8D7514250977C3D672F2F5659"
+                        ],
+                        "activationActions": []
+                    },
+                    {
+                        "$type": "Loupedeck.Service.ProfileLayoutWorkspace20, LoupedeckService",
+                        "name": "1A8F53AC2AE7537FBB748E9733786148",
+                        "displayName": "Quick Text",
+                        "description": "Reusable completion and quality prompts",
+                        "touchPageNames": [
+                            "AF50425E8816A769CEEE5C3553BA15CD"
+                        ],
+                        "encoderPageNames": [
+                            "1BE23F3F907D41926E4799BF07BB7D10"
+                        ],
+                        "wheelPageNames": [
+                            "677ABAE2AA02C8D38D2025EEA9E5F261"
+                        ],
+                        "activationActions": []
+                    },
+                    {
+                        "$type": "Loupedeck.Service.ProfileLayoutWorkspace20, LoupedeckService",
+                        "name": "6506BBD94BD90E6607E50D154D446E36",
+                        "displayName": "Personal",
+                        "description": "Repository-safety and research prompts",
+                        "touchPageNames": [
+                            "7BD637EE24E4C4797E31A1B686C8F17E"
+                        ],
+                        "encoderPageNames": [
+                            "7BB3355B898C3A48E3EEB06632FD1AA4"
+                        ],
+                        "wheelPageNames": [
+                            "9BD0B1DF990AE6FD1C96CB32D3DD315E"
+                        ],
+                        "activationActions": []
+                    },
+                    {
+                        "$type": "Loupedeck.Service.ProfileLayoutWorkspace20, LoupedeckService",
+                        "name": "9B077C901E6F18F219CF2770C8B51506",
+                        "displayName": "Create",
+                        "description": "Guided creative, document, design, and build tool prompts",
+                        "touchPageNames": [
+                            "5CD3D04DD2171DC81F4E93BA4291A91C"
+                        ],
+                        "encoderPageNames": [
+                            "2B3616624DA3B24B21B6ABAA2AAD9C8A"
+                        ],
+                        "wheelPageNames": [
+                            "8502092300D37F60A9BE533285E8E147"
+                        ],
+                        "activationActions": []
+                    },
+                    {
+                        "$type": "Loupedeck.Service.ProfileLayoutWorkspace20, LoupedeckService",
+                        "name": "EBA278FC2BE11A9176539F95FCA15301",
+                        "displayName": "Operate",
+                        "description": "Guided browser, app, communication, and service tool prompts",
+                        "touchPageNames": [
+                            "759FCAB52B3090FD81B246C6F8394CF7"
+                        ],
+                        "encoderPageNames": [
+                            "4AAC73F5ADF058DD5E1073CB1654881D"
+                        ],
+                        "wheelPageNames": [
+                            "2435D57824B13B4EE9E7EB0D2BC18FF7"
+                        ],
+                        "activationActions": []
+                    }
+                ],
+                "homeWorkspaceName": "3976AAB2E3F847BC9EBD3438CD8DBA41"
+            }
+        ],
+        "roundPage": {
+            "$type": "Loupedeck.Service.ProfileLayoutButtonPage, LoupedeckService",
+            "name": "2AD08629B1554FB3A7E53AD7FB587501",
+            "displayName": "",
+            "description": null,
+            "controls": [
+                {
+                    "$type": "Loupedeck.Service.ProfileLayoutButton, LoupedeckService",
+                    "pressAction": "$@Generic___@ChangeWorkspace___main|3976AAB2E3F847BC9EBD3438CD8DBA41",
+                    "fnPressAction": null
+                },
+                {
+                    "$type": "Loupedeck.Service.ProfileLayoutButton, LoupedeckService",
+                    "pressAction": "$@Generic___@ChangeWorkspace___main|2989E3DEBFF943439501BD90E996ED95",
+                    "fnPressAction": null
+                },
+                {
+                    "$type": "Loupedeck.Service.ProfileLayoutButton, LoupedeckService",
+                    "pressAction": "$@Generic___@ChangeWorkspace___main|65AA1220FBE449708BB8017571699108",
+                    "fnPressAction": null
+                },
+                {
+                    "$type": "Loupedeck.Service.ProfileLayoutButton, LoupedeckService",
+                    "pressAction": "$@Generic___@ProfileAction___FE9DF858E4DE996BEF8BE55399E0BFEA",
+                    "fnPressAction": "$@Generic___@ProfileAction___D39EEF2AABB37AEFF3CDB04C3CA4F836"
+                },
+                {
+                    "$type": "Loupedeck.Service.ProfileLayoutButton, LoupedeckService",
+                    "pressAction": "$@Generic___@ChangeWorkspace___main|9B077C901E6F18F219CF2770C8B51506",
+                    "fnPressAction": null
+                },
+                {
+                    "$type": "Loupedeck.Service.ProfileLayoutButton, LoupedeckService",
+                    "pressAction": "$@Generic___@ChangeWorkspace___main|EBA278FC2BE11A9176539F95FCA15301",
+                    "fnPressAction": "$@Generic___@ProfileAction___FDEF4464B3AF732637E36C255F7C84CC"
+                },
+                {
+                    "$type": "Loupedeck.Service.ProfileLayoutButton, LoupedeckService",
+                    "pressAction": "$@Generic___@ChangeWorkspace___main|6506BBD94BD90E6607E50D154D446E36",
+                    "fnPressAction": "$@Generic___@ProfileAction___C1A434826F3CF5520E7C6557C0BC288E"
+                },
+                {
+                    "$type": "Loupedeck.Service.ProfileLayoutButton, LoupedeckService",
+                    "pressAction": "$@Generic___@ChangeWorkspace___main|1A8F53AC2AE7537FBB748E9733786148",
+                    "fnPressAction": null
+                }
+            ],
+            "dynamicPageName": null,
+            "dynamicPagePluginName": null,
+            "dynamicPageNumber": 0
+        },
+        "squarePage": {
+            "$type": "Loupedeck.Service.ProfileLayoutButtonPage, LoupedeckService",
+            "name": "90A8D0003FD142398405A41C9BAEFD58",
+            "displayName": "",
+            "description": null,
+            "controls": [
+                {
+                    "$type": "Loupedeck.Service.ProfileLayoutButton, LoupedeckService",
+                    "pressAction": "$@Generic___@ProfileAction___C1A434826F3CF5520E7C6557C0BC288E",
+                    "fnPressAction": null
+                },
+                {
+                    "$type": "Loupedeck.Service.ProfileLayoutButton, LoupedeckService",
+                    "pressAction": "$@Generic___@ProfileAction___FE9DF858E4DE996BEF8BE55399E0BFEA",
+                    "fnPressAction": "$@Generic___@ProfileAction___D39EEF2AABB37AEFF3CDB04C3CA4F836"
+                },
+                {
+                    "$type": "Loupedeck.Service.ProfileLayoutButton, LoupedeckService",
+                    "pressAction": "$@Generic___@ProfileAction___F0BD74D9F0489331D09E2D974020852E",
+                    "fnPressAction": "$@Generic___@ProfileAction___61577E8FC96A2501DC193B11973439B0"
+                },
+                {
+                    "$type": "Loupedeck.Service.ProfileLayoutButton, LoupedeckService",
+                    "pressAction": "$@Generic___@ProfileAction___B48B61AF8F04327BBB027883C91D69FE",
+                    "fnPressAction": "$@Generic___@ProfileAction___8251540708F1E035138CBCA209312907"
+                },
+                {
+                    "$type": "Loupedeck.Service.ProfileLayoutButton, LoupedeckService",
+                    "pressAction": "$@Generic___@ProfileAction___789BFECDABD5F3C07C7F9949964B4E50",
+                    "fnPressAction": "$@Generic___@ProfileAction___1880EDD9D0AC09B7C9A2F0178DA3C091"
+                },
+                {
+                    "$type": "Loupedeck.Service.ProfileLayoutButton, LoupedeckService",
+                    "pressAction": "$@Generic___@ProfileAction___C455464D6B93DF82BA816F889F6D6B99",
+                    "fnPressAction": "$@Generic___@ProfileAction___FDEF4464B3AF732637E36C255F7C84CC"
+                },
+                {
+                    "$type": "Loupedeck.Service.ProfileLayoutButton, LoupedeckService",
+                    "pressAction": "$@Generic___@ChangeWorkspace___main|6506BBD94BD90E6607E50D154D446E36",
+                    "fnPressAction": "$@Generic___@ProfileAction___E5C8FD936CF97B246294A9C7AFED043F"
+                },
+                {
+                    "$type": "Loupedeck.Service.ProfileLayoutButton, LoupedeckService",
+                    "pressAction": "$@Generic___@ChangeWorkspace___main|1A8F53AC2AE7537FBB748E9733786148",
+                    "fnPressAction": "$@Generic___@ProfileAction___671037E0BB170D977AA0C011FC216BB6"
+                },
+                {
+                    "$type": "Loupedeck.Service.ProfileLayoutButton, LoupedeckService",
+                    "pressAction": "$@Generic___@ChangeWorkspace___main|3976AAB2E3F847BC9EBD3438CD8DBA41",
+                    "fnPressAction": null
+                },
+                {
+                    "$type": "Loupedeck.Service.ProfileLayoutButton, LoupedeckService",
+                    "pressAction": "$@Generic___@ChangeWorkspace___main|2989E3DEBFF943439501BD90E996ED95",
+                    "fnPressAction": null
+                },
+                {
+                    "$type": "Loupedeck.Service.ProfileLayoutButton, LoupedeckService",
+                    "pressAction": "$@Generic___@ChangeWorkspace___main|65AA1220FBE449708BB8017571699108",
+                    "fnPressAction": null
+                },
+                {
+                    "$type": "Loupedeck.Service.ProfileLayoutButton, LoupedeckService",
+                    "pressAction": "$@Generic___@ProfileAction___465A04D391CDB36E967C3504EF35519E",
+                    "fnPressAction": null
+                }
+            ],
+            "dynamicPageName": null,
+            "dynamicPagePluginName": null,
+            "dynamicPageNumber": 0
+        }
+    },
+    "macroCommands": [
+        {
+            "$type": "Loupedeck.Service.ApplicationProfileMacroCommand, LoupedeckService",
+            "isCommand": true,
+            "name": "CC96A2EE2DD94B18ACAD8E5D33700CE0",
+            "displayName": "Skill · Plan",
+            "description": "",
+            "groupName": "",
+            "superGroupName": "@macro",
+            "supportedOs": "All",
+            "supportedModes": [
+                "main"
+            ],
+            "showAsSingleAction": true,
+            "actionEditorCommands": [],
+            "isMultiState": false,
+            "actions": [
+                "$@Generic___@TypeText___Inspect the relevant context and create a decision-complete implementation plan. Do not make changes yet."
+            ]
+        },
+        {
+            "$type": "Loupedeck.Service.ApplicationProfileMacroCommand, LoupedeckService",
+            "isCommand": true,
+            "name": "9437119AFC07454EA11E0E02D4AF25CF",
+            "displayName": "Skill · Build",
+            "description": "",
+            "groupName": "",
+            "superGroupName": "@macro",
+            "supportedOs": "All",
+            "supportedModes": [
+                "main"
+            ],
+            "showAsSingleAction": true,
+            "actionEditorCommands": [],
+            "isMultiState": false,
+            "actions": [
+                "$@Generic___@TypeText___Implement the requested change end-to-end, keep the scope tight, and verify the result."
+            ]
+        },
+        {
+            "$type": "Loupedeck.Service.ApplicationProfileMacroCommand, LoupedeckService",
+            "isCommand": true,
+            "name": "00AD64EDE9474C53A423E195803FE3ED",
+            "displayName": "Skill · Debug",
+            "description": "",
+            "groupName": "",
+            "superGroupName": "@macro",
+            "supportedOs": "All",
+            "supportedModes": [
+                "main"
+            ],
+            "showAsSingleAction": true,
+            "actionEditorCommands": [],
+            "isMultiState": false,
+            "actions": [
+                "$@Generic___@TypeText___Diagnose this from evidence, identify the root cause, implement the smallest safe fix, and verify it."
+            ]
+        },
+        {
+            "$type": "Loupedeck.Service.ApplicationProfileMacroCommand, LoupedeckService",
+            "isCommand": true,
+            "name": "40E19C0B37A54E89B3C3BE9493B88E37",
+            "displayName": "Skill · Review",
+            "description": "",
+            "groupName": "",
+            "superGroupName": "@macro",
+            "supportedOs": "All",
+            "supportedModes": [
+                "main"
+            ],
+            "showAsSingleAction": true,
+            "actionEditorCommands": [],
+            "isMultiState": false,
+            "actions": [
+                "$@Generic___@TypeText___Review the current change for bugs, regressions, security or release risk, and missing tests. Lead with findings."
+            ]
+        },
+        {
+            "$type": "Loupedeck.Service.ApplicationProfileMacroCommand, LoupedeckService",
+            "isCommand": true,
+            "name": "3A3F57BD587A47E7A99ACBC02E95EBA8",
+            "displayName": "Skill · Test",
+            "description": "",
+            "groupName": "",
+            "superGroupName": "@macro",
+            "supportedOs": "All",
+            "supportedModes": [
+                "main"
+            ],
+            "showAsSingleAction": true,
+            "actionEditorCommands": [],
+            "isMultiState": false,
+            "actions": [
+                "$@Generic___@TypeText___Run the most relevant tests and checks, investigate failures, and report only verified results."
+            ]
+        },
+        {
+            "$type": "Loupedeck.Service.ApplicationProfileMacroCommand, LoupedeckService",
+            "isCommand": true,
+            "name": "29494D515259486BAF75185FC335397D",
+            "displayName": "Skill · Refactor",
+            "description": "",
+            "groupName": "",
+            "superGroupName": "@macro",
+            "supportedOs": "All",
+            "supportedModes": [
+                "main"
+            ],
+            "showAsSingleAction": true,
+            "actionEditorCommands": [],
+            "isMultiState": false,
+            "actions": [
+                "$@Generic___@TypeText___Refactor the current code for clarity and maintainability without changing behavior, then verify it."
+            ]
+        },
+        {
+            "$type": "Loupedeck.Service.ApplicationProfileMacroCommand, LoupedeckService",
+            "isCommand": true,
+            "name": "5E3B7E1944E249E68B3D4C1FCD350F66",
+            "displayName": "Skill · Explain",
+            "description": "",
+            "groupName": "",
+            "superGroupName": "@macro",
+            "supportedOs": "All",
+            "supportedModes": [
+                "main"
+            ],
+            "showAsSingleAction": true,
+            "actionEditorCommands": [],
+            "isMultiState": false,
+            "actions": [
+                "$@Generic___@TypeText___Explain the current code or result in plain language, including its data flow and likely pitfalls."
+            ]
+        },
+        {
+            "$type": "Loupedeck.Service.ApplicationProfileMacroCommand, LoupedeckService",
+            "isCommand": true,
+            "name": "6DCDCC3644DF4C2595AABE1B69148E23",
+            "displayName": "Skill · Docs",
+            "description": "",
+            "groupName": "",
+            "superGroupName": "@macro",
+            "supportedOs": "All",
+            "supportedModes": [
+                "main"
+            ],
+            "showAsSingleAction": true,
+            "actionEditorCommands": [],
+            "isMultiState": false,
+            "actions": [
+                "$@Generic___@TypeText___Update the relevant documentation to match current behavior; keep edits surgical and validate links and examples."
+            ]
+        },
+        {
+            "$type": "Loupedeck.Service.ApplicationProfileMacroCommand, LoupedeckService",
+            "isCommand": true,
+            "name": "F7CDF50C1CB74ABEA4FA179C66141E10",
+            "displayName": "Skill · Research",
+            "description": "",
+            "groupName": "",
+            "superGroupName": "@macro",
+            "supportedOs": "All",
+            "supportedModes": [
+                "main"
+            ],
+            "showAsSingleAction": true,
+            "actionEditorCommands": [],
+            "isMultiState": false,
+            "actions": [
+                "$@Generic___@TypeText___Research the current best answer using primary sources, cite claims, and separate facts from inference."
+            ]
+        },
+        {
+            "$type": "Loupedeck.Service.ApplicationProfileMacroCommand, LoupedeckService",
+            "isCommand": true,
+            "name": "51C067C111C548358C0BFEC2AFCAE3C5",
+            "displayName": "Skill · UI Polish",
+            "description": "",
+            "groupName": "",
+            "superGroupName": "@macro",
+            "supportedOs": "All",
+            "supportedModes": [
+                "main"
+            ],
+            "showAsSingleAction": true,
+            "actionEditorCommands": [],
+            "isMultiState": false,
+            "actions": [
+                "$@Generic___@TypeText___Audit and improve this interface for hierarchy, clarity, accessibility, and native macOS-quality polish while preserving behavior."
+            ]
+        },
+        {
+            "$type": "Loupedeck.Service.ApplicationProfileMacroCommand, LoupedeckService",
+            "isCommand": true,
+            "name": "E79FB64AF35E480582EF63485376EC9F",
+            "displayName": "Skill · Visuals",
+            "description": "",
+            "groupName": "",
+            "superGroupName": "@macro",
+            "supportedOs": "All",
+            "supportedModes": [
+                "main"
+            ],
+            "showAsSingleAction": true,
+            "actionEditorCommands": [],
+            "isMultiState": false,
+            "actions": [
+                "$@Generic___@TypeText___Create three distinct visual directions for this request, then stop for my selection before producing final assets."
+            ]
+        },
+        {
+            "$type": "Loupedeck.Service.ApplicationProfileMacroCommand, LoupedeckService",
+            "isCommand": true,
+            "name": "B94F3B94D3434530B903C0ACDBD17298",
+            "displayName": "Skill · Continue",
+            "description": "",
+            "groupName": "",
+            "superGroupName": "@macro",
+            "supportedOs": "All",
+            "supportedModes": [
+                "main"
+            ],
+            "showAsSingleAction": true,
+            "actionEditorCommands": [],
+            "isMultiState": false,
+            "actions": [
+                "$@Generic___@TypeText___Continue from the latest verified state, take the next safe in-scope step, and report progress."
+            ]
+        },
+        {
+            "$type": "Loupedeck.Service.ApplicationProfileMacroCommand, LoupedeckService",
+            "isCommand": true,
+            "name": "B9C16D7DC006C74E0A3D76ABD21978DB",
+            "displayName": "Finish It",
+            "description": "Paste-only reusable Codex prompt",
+            "groupName": "Quick Text",
+            "superGroupName": "@macro",
+            "supportedOs": "All",
+            "supportedModes": [
+                "main"
+            ],
+            "showAsSingleAction": true,
+            "actionEditorCommands": [],
+            "isMultiState": false,
+            "actions": [
+                "$@Generic___@TypeText___Continue working autonomously until this is genuinely complete. Fix anything still blocking the result, validate it, and tell me exactly what changed."
+            ]
+        },
+        {
+            "$type": "Loupedeck.Service.ApplicationProfileMacroCommand, LoupedeckService",
+            "isCommand": true,
+            "name": "6D3B4271C7B63447FAD294E5FADAE415",
+            "displayName": "Status",
+            "description": "Paste-only reusable Codex prompt",
+            "groupName": "Quick Text",
+            "superGroupName": "@macro",
+            "supportedOs": "All",
+            "supportedModes": [
+                "main"
+            ],
+            "showAsSingleAction": true,
+            "actionEditorCommands": [],
+            "isMultiState": false,
+            "actions": [
+                "$@Generic___@TypeText___Inspect the current state and give me a concise status: what is done, what is broken or uncertain, and the best next step."
+            ]
+        },
+        {
+            "$type": "Loupedeck.Service.ApplicationProfileMacroCommand, LoupedeckService",
+            "isCommand": true,
+            "name": "A26DAB88287E5BE26FE038A7E01FBF23",
+            "displayName": "Root Cause",
+            "description": "Paste-only reusable Codex prompt",
+            "groupName": "Quick Text",
+            "superGroupName": "@macro",
+            "supportedOs": "All",
+            "supportedModes": [
+                "main"
+            ],
+            "showAsSingleAction": true,
+            "actionEditorCommands": [],
+            "isMultiState": false,
+            "actions": [
+                "$@Generic___@TypeText___Diagnose the root cause, implement the proper fix, and verify that the issue is actually resolved."
+            ]
+        },
+        {
+            "$type": "Loupedeck.Service.ApplicationProfileMacroCommand, LoupedeckService",
+            "isCommand": true,
+            "name": "B391B380F39F91BA2FC1646CDEECF8D3",
+            "displayName": "Check Rest",
+            "description": "Paste-only reusable Codex prompt",
+            "groupName": "Quick Text",
+            "superGroupName": "@macro",
+            "supportedOs": "All",
+            "supportedModes": [
+                "main"
+            ],
+            "showAsSingleAction": true,
+            "actionEditorCommands": [],
+            "isMultiState": false,
+            "actions": [
+                "$@Generic___@TypeText___Check the rest of this carefully for related issues or missing pieces. Fix what is in scope and report anything that still needs me."
+            ]
+        },
+        {
+            "$type": "Loupedeck.Service.ApplicationProfileMacroCommand, LoupedeckService",
+            "isCommand": true,
+            "name": "F2B265CD9A76298BFBDE9E2513B19B56",
+            "displayName": "Update Docs",
+            "description": "Paste-only reusable Codex prompt",
+            "groupName": "Quick Text",
+            "superGroupName": "@macro",
+            "supportedOs": "All",
+            "supportedModes": [
+                "main"
+            ],
+            "showAsSingleAction": true,
+            "actionEditorCommands": [],
+            "isMultiState": false,
+            "actions": [
+                "$@Generic___@TypeText___Update all relevant documentation and the appropriate worklog so they accurately match the final implementation."
+            ]
+        },
+        {
+            "$type": "Loupedeck.Service.ApplicationProfileMacroCommand, LoupedeckService",
+            "isCommand": true,
+            "name": "0AC76802E3E6971CC491246A0F8D05B6",
+            "displayName": "Validate All",
+            "description": "Paste-only reusable Codex prompt",
+            "groupName": "Quick Text",
+            "superGroupName": "@macro",
+            "supportedOs": "All",
+            "supportedModes": [
+                "main"
+            ],
+            "showAsSingleAction": true,
+            "actionEditorCommands": [],
+            "isMultiState": false,
+            "actions": [
+                "$@Generic___@TypeText___Run the appropriate tests and validation checks. Fix in-scope failures, then report the exact results honestly."
+            ]
+        },
+        {
+            "$type": "Loupedeck.Service.ApplicationProfileMacroCommand, LoupedeckService",
+            "isCommand": true,
+            "name": "106199C2ADAFD4CEA5BAAE2F84A043BD",
+            "displayName": "Review Changes",
+            "description": "Paste-only reusable Codex prompt",
+            "groupName": "Quick Text",
+            "superGroupName": "@macro",
+            "supportedOs": "All",
+            "supportedModes": [
+                "main"
+            ],
+            "showAsSingleAction": true,
+            "actionEditorCommands": [],
+            "isMultiState": false,
+            "actions": [
+                "$@Generic___@TypeText___Review the current changes for bugs, regressions, security concerns, release risks, and missing tests. Lead with actionable findings."
+            ]
+        },
+        {
+            "$type": "Loupedeck.Service.ApplicationProfileMacroCommand, LoupedeckService",
+            "isCommand": true,
+            "name": "C3091A649EE4A666D8731008437E8A7A",
+            "displayName": "Make It Nice",
+            "description": "Paste-only reusable Codex prompt",
+            "groupName": "Quick Text",
+            "superGroupName": "@macro",
+            "supportedOs": "All",
+            "supportedModes": [
+                "main"
+            ],
+            "showAsSingleAction": true,
+            "actionEditorCommands": [],
+            "isMultiState": false,
+            "actions": [
+                "$@Generic___@TypeText___Polish this so it feels cohesive, intuitive, and production-ready while preserving the existing functionality."
+            ]
+        },
+        {
+            "$type": "Loupedeck.Service.ApplicationProfileMacroCommand, LoupedeckService",
+            "isCommand": true,
+            "name": "CAB8350920D2BEA4D4CF9E1D73564393",
+            "displayName": "Simplify",
+            "description": "Paste-only reusable Codex prompt",
+            "groupName": "Quick Text",
+            "superGroupName": "@macro",
+            "supportedOs": "All",
+            "supportedModes": [
+                "main"
+            ],
+            "showAsSingleAction": true,
+            "actionEditorCommands": [],
+            "isMultiState": false,
+            "actions": [
+                "$@Generic___@TypeText___Simplify this implementation and remove unnecessary complexity without changing the intended behavior."
+            ]
+        },
+        {
+            "$type": "Loupedeck.Service.ApplicationProfileMacroCommand, LoupedeckService",
+            "isCommand": true,
+            "name": "192DD2DFEDE58806F04319BFBDA28029",
+            "displayName": "Best Judgment",
+            "description": "Paste-only reusable Codex prompt",
+            "groupName": "Quick Text",
+            "superGroupName": "@macro",
+            "supportedOs": "All",
+            "supportedModes": [
+                "main"
+            ],
+            "showAsSingleAction": true,
+            "actionEditorCommands": [],
+            "isMultiState": false,
+            "actions": [
+                "$@Generic___@TypeText___Use your best judgment and make reasonable decisions to move this forward without waiting for minor clarifications. Flag only choices that materially change the outcome."
+            ]
+        },
+        {
+            "$type": "Loupedeck.Service.ApplicationProfileMacroCommand, LoupedeckService",
+            "isCommand": true,
+            "name": "E36614ED4C7CCA679D245DD72A05D4DA",
+            "displayName": "Handoff",
+            "description": "Paste-only reusable Codex prompt",
+            "groupName": "Quick Text",
+            "superGroupName": "@macro",
+            "supportedOs": "All",
+            "supportedModes": [
+                "main"
+            ],
+            "showAsSingleAction": true,
+            "actionEditorCommands": [],
+            "isMultiState": false,
+            "actions": [
+                "$@Generic___@TypeText___Give me a clear handoff with what was completed, files changed, validation performed, remaining risks, and the next useful step."
+            ]
+        },
+        {
+            "$type": "Loupedeck.Service.ApplicationProfileMacroCommand, LoupedeckService",
+            "isCommand": true,
+            "name": "F7C7AA00540DE4C80A6BB18EB6A53300",
+            "displayName": "Match Visual",
+            "description": "Paste-only reusable Codex prompt",
+            "groupName": "Quick Text",
+            "superGroupName": "@macro",
+            "supportedOs": "All",
+            "supportedModes": [
+                "main"
+            ],
+            "showAsSingleAction": true,
+            "actionEditorCommands": [],
+            "isMultiState": false,
+            "actions": [
+                "$@Generic___@TypeText___Compare the implementation carefully against the provided screenshot or reference, identify visible differences, and fix the in-scope mismatches."
+            ]
+        },
+        {
+            "$type": "Loupedeck.Service.ApplicationProfileMacroCommand, LoupedeckService",
+            "isCommand": true,
+            "name": "2C102E8923513FE0C937D7EFD9BE5E99",
+            "displayName": "Inspect First",
+            "description": "Paste-only personal Codex prompt",
+            "groupName": "Personal",
+            "superGroupName": "@macro",
+            "supportedOs": "All",
+            "supportedModes": [
+                "main"
+            ],
+            "showAsSingleAction": true,
+            "actionEditorCommands": [],
+            "isMultiState": false,
+            "actions": [
+                "$@Generic___@TypeText___Before changing anything, read AGENTS.md and the relevant project documentation, inspect the affected files and current behavior, then briefly state the implementation plan."
+            ]
+        },
+        {
+            "$type": "Loupedeck.Service.ApplicationProfileMacroCommand, LoupedeckService",
+            "isCommand": true,
+            "name": "924B3A6C816130EF076DC8D6CD2EF912",
+            "displayName": "Find Root",
+            "description": "Paste-only personal Codex prompt",
+            "groupName": "Personal",
+            "superGroupName": "@macro",
+            "supportedOs": "All",
+            "supportedModes": [
+                "main"
+            ],
+            "showAsSingleAction": true,
+            "actionEditorCommands": [],
+            "isMultiState": false,
+            "actions": [
+                "$@Generic___@TypeText___Identify the real project root and determine which instruction files apply before editing. Do not assume the currently open folder is the correct root."
+            ]
+        },
+        {
+            "$type": "Loupedeck.Service.ApplicationProfileMacroCommand, LoupedeckService",
+            "isCommand": true,
+            "name": "F21A7B3522F0EDE61CBA10CFB8E25D54",
+            "displayName": "Lock Scope",
+            "description": "Paste-only personal Codex prompt",
+            "groupName": "Personal",
+            "superGroupName": "@macro",
+            "supportedOs": "All",
+            "supportedModes": [
+                "main"
+            ],
+            "showAsSingleAction": true,
+            "actionEditorCommands": [],
+            "isMultiState": false,
+            "actions": [
+                "$@Generic___@TypeText___Define what is in scope and what must not be touched. Stay inside the assigned task and do not change unrelated logic, UI, data, wording, files, or behavior."
+            ]
+        },
+        {
+            "$type": "Loupedeck.Service.ApplicationProfileMacroCommand, LoupedeckService",
+            "isCommand": true,
+            "name": "9E9A7112F40BEBE11F074AF302960D0D",
+            "displayName": "Preserve",
+            "description": "Paste-only personal Codex prompt",
+            "groupName": "Personal",
+            "superGroupName": "@macro",
+            "supportedOs": "All",
+            "supportedModes": [
+                "main"
+            ],
+            "showAsSingleAction": true,
+            "actionEditorCommands": [],
+            "isMultiState": false,
+            "actions": [
+                "$@Generic___@TypeText___Preserve all existing functionality and visual behavior unless the requested feature specifically requires changing it. Add around the current system instead of replacing it."
+            ]
+        },
+        {
+            "$type": "Loupedeck.Service.ApplicationProfileMacroCommand, LoupedeckService",
+            "isCommand": true,
+            "name": "6750817E843230E3DEE1EFC012A555FA",
+            "displayName": "Small Fix",
+            "description": "Paste-only personal Codex prompt",
+            "groupName": "Personal",
+            "superGroupName": "@macro",
+            "supportedOs": "All",
+            "supportedModes": [
+                "main"
+            ],
+            "showAsSingleAction": true,
+            "actionEditorCommands": [],
+            "isMultiState": false,
+            "actions": [
+                "$@Generic___@TypeText___Make the smallest practical and safe change that completely solves the problem. Avoid broad rewrites, unnecessary dependencies, or architecture changes."
+            ]
+        },
+        {
+            "$type": "Loupedeck.Service.ApplicationProfileMacroCommand, LoupedeckService",
+            "isCommand": true,
+            "name": "617921D7806A8602812881054BB5AB49",
+            "displayName": "Use Existing",
+            "description": "Paste-only personal Codex prompt",
+            "groupName": "Personal",
+            "superGroupName": "@macro",
+            "supportedOs": "All",
+            "supportedModes": [
+                "main"
+            ],
+            "showAsSingleAction": true,
+            "actionEditorCommands": [],
+            "isMultiState": false,
+            "actions": [
+                "$@Generic___@TypeText___Reuse the project's existing components, patterns, utilities, styles, data flow, and dependencies before creating anything new."
+            ]
+        },
+        {
+            "$type": "Loupedeck.Service.ApplicationProfileMacroCommand, LoupedeckService",
+            "isCommand": true,
+            "name": "5ED681B5EC723730742644A497202093",
+            "displayName": "Full Files",
+            "description": "Paste-only personal Codex prompt",
+            "groupName": "Personal",
+            "superGroupName": "@macro",
+            "supportedOs": "All",
+            "supportedModes": [
+                "main"
+            ],
+            "showAsSingleAction": true,
+            "actionEditorCommands": [],
+            "isMultiState": false,
+            "actions": [
+                "$@Generic___@TypeText___Apply complete file rewrites for every file you change rather than giving partial snippets. Preserve all unrelated code and content."
+            ]
+        },
+        {
+            "$type": "Loupedeck.Service.ApplicationProfileMacroCommand, LoupedeckService",
+            "isCommand": true,
+            "name": "C338235AC3DE22082E9C90A5D28E01CE",
+            "displayName": "Source Truth",
+            "description": "Paste-only personal Codex prompt",
+            "groupName": "Personal",
+            "superGroupName": "@macro",
+            "supportedOs": "All",
+            "supportedModes": [
+                "main"
+            ],
+            "showAsSingleAction": true,
+            "actionEditorCommands": [],
+            "isMultiState": false,
+            "actions": [
+                "$@Generic___@TypeText___Treat the existing repository, data files, and established workflow as the source of truth. Do not create a parallel system, duplicate database, competing configuration, or second workflow."
+            ]
+        },
+        {
+            "$type": "Loupedeck.Service.ApplicationProfileMacroCommand, LoupedeckService",
+            "isCommand": true,
+            "name": "0D278DF19D6090E4AC8A409954E54644",
+            "displayName": "No Guessing",
+            "description": "Paste-only personal Codex prompt",
+            "groupName": "Personal",
+            "superGroupName": "@macro",
+            "supportedOs": "All",
+            "supportedModes": [
+                "main"
+            ],
+            "showAsSingleAction": true,
+            "actionEditorCommands": [],
+            "isMultiState": false,
+            "actions": [
+                "$@Generic___@TypeText___Do not invent commands, APIs, file paths, results, or capabilities. Verify them from the project or authoritative sources, and clearly identify anything that remains unknown."
+            ]
+        },
+        {
+            "$type": "Loupedeck.Service.ApplicationProfileMacroCommand, LoupedeckService",
+            "isCommand": true,
+            "name": "C98702B754B8841656F678FEF4F55191",
+            "displayName": "Keep Going",
+            "description": "Paste-only personal Codex prompt",
+            "groupName": "Personal",
+            "superGroupName": "@macro",
+            "supportedOs": "All",
+            "supportedModes": [
+                "main"
+            ],
+            "showAsSingleAction": true,
+            "actionEditorCommands": [],
+            "isMultiState": false,
+            "actions": [
+                "$@Generic___@TypeText___Use the context already available, make reasonable decisions, and complete the task without stopping for unnecessary questions. Continue through implementation, verification, and cleanup."
+            ]
+        },
+        {
+            "$type": "Loupedeck.Service.ApplicationProfileMacroCommand, LoupedeckService",
+            "isCommand": true,
+            "name": "120CBA0647BBC16A645629F04E55FB36",
+            "displayName": "Deep Research",
+            "description": "Paste-only personal Codex prompt",
+            "groupName": "Personal",
+            "superGroupName": "@macro",
+            "supportedOs": "All",
+            "supportedModes": [
+                "main"
+            ],
+            "showAsSingleAction": true,
+            "actionEditorCommands": [],
+            "isMultiState": false,
+            "actions": [
+                "$@Generic___@TypeText___Research this thoroughly using the browser. Keep digging through official documentation, GitHub, Reddit, forums, videos, public repositories, and relevant examples. Cite sources and separate verified facts from inference."
+            ]
+        },
+        {
+            "$type": "Loupedeck.Service.ApplicationProfileMacroCommand, LoupedeckService",
+            "isCommand": true,
+            "name": "F4E0A60333A08809F5F6CEA646522C5B",
+            "displayName": "Audit Only",
+            "description": "Paste-only personal Codex prompt",
+            "groupName": "Personal",
+            "superGroupName": "@macro",
+            "supportedOs": "All",
+            "supportedModes": [
+                "main"
+            ],
+            "showAsSingleAction": true,
+            "actionEditorCommands": [],
+            "isMultiState": false,
+            "actions": [
+                "$@Generic___@TypeText___Audit the project and classify findings as source code, documentation, assets, generated output, local/private content, safe cleanup, or risky/unknown. Do not delete or modify anything."
+            ]
+        },
+        {
+            "$type": "Loupedeck.Service.ApplicationProfileMacroCommand, LoupedeckService",
+            "isCommand": true,
+            "name": "C4EB540515AA5AC91C66ECCAA62FCEA8",
+            "displayName": "Creative",
+            "description": "Paste-only guided skill/tool prompt",
+            "groupName": "Create",
+            "superGroupName": "@macro",
+            "supportedOs": "All",
+            "supportedModes": [
+                "main"
+            ],
+            "showAsSingleAction": true,
+            "actionEditorCommands": [],
+            "isMultiState": false,
+            "actions": [
+                "$@Generic___@TypeText___Use the Creative Production plugin and choose its best-fitting intake or production skill for this task."
+            ]
+        },
+        {
+            "$type": "Loupedeck.Service.ApplicationProfileMacroCommand, LoupedeckService",
+            "isCommand": true,
+            "name": "E1D7B7DB65D2DC79E16F3BF168DC99F7",
+            "displayName": "Documents",
+            "description": "Paste-only guided skill/tool prompt",
+            "groupName": "Create",
+            "superGroupName": "@macro",
+            "supportedOs": "All",
+            "supportedModes": [
+                "main"
+            ],
+            "showAsSingleAction": true,
+            "actionEditorCommands": [],
+            "isMultiState": false,
+            "actions": [
+                "$@Generic___@TypeText___Use the Documents plugin and its Documents skill for this task. Preserve existing structure and formatting unless the request requires a change."
+            ]
+        },
+        {
+            "$type": "Loupedeck.Service.ApplicationProfileMacroCommand, LoupedeckService",
+            "isCommand": true,
+            "name": "E453E206C072382EBFFD4285C7FE906B",
+            "displayName": "Sheets",
+            "description": "Paste-only guided skill/tool prompt",
+            "groupName": "Create",
+            "superGroupName": "@macro",
+            "supportedOs": "All",
+            "supportedModes": [
+                "main"
+            ],
+            "showAsSingleAction": true,
+            "actionEditorCommands": [],
+            "isMultiState": false,
+            "actions": [
+                "$@Generic___@TypeText___Use the Spreadsheets plugin for this workbook or data task. Preserve formulas, formatting, and workbook structure unless I request changes."
+            ]
+        },
+        {
+            "$type": "Loupedeck.Service.ApplicationProfileMacroCommand, LoupedeckService",
+            "isCommand": true,
+            "name": "59A98A3F76DA4E4F40A2FC7BFA078796",
+            "displayName": "PDF",
+            "description": "Paste-only guided skill/tool prompt",
+            "groupName": "Create",
+            "superGroupName": "@macro",
+            "supportedOs": "All",
+            "supportedModes": [
+                "main"
+            ],
+            "showAsSingleAction": true,
+            "actionEditorCommands": [],
+            "isMultiState": false,
+            "actions": [
+                "$@Generic___@TypeText___Use the PDF skill for this task. Inspect, create, edit, or validate the PDF as needed and visually verify the final pages."
+            ]
+        },
+        {
+            "$type": "Loupedeck.Service.ApplicationProfileMacroCommand, LoupedeckService",
+            "isCommand": true,
+            "name": "D67BD2ED7054389DD17EFAE8AF78F461",
+            "displayName": "Slides",
+            "description": "Paste-only guided skill/tool prompt",
+            "groupName": "Create",
+            "superGroupName": "@macro",
+            "supportedOs": "All",
+            "supportedModes": [
+                "main"
+            ],
+            "showAsSingleAction": true,
+            "actionEditorCommands": [],
+            "isMultiState": false,
+            "actions": [
+                "$@Generic___@TypeText___Use the Presentations skill for this task. Build or refine the deck with clear hierarchy, cohesive visuals, and validated slide output."
+            ]
+        },
+        {
+            "$type": "Loupedeck.Service.ApplicationProfileMacroCommand, LoupedeckService",
+            "isCommand": true,
+            "name": "C1C06E9C1CB9B50EC17820AF1471F8F5",
+            "displayName": "Templates",
+            "description": "Paste-only guided skill/tool prompt",
+            "groupName": "Create",
+            "superGroupName": "@macro",
+            "supportedOs": "All",
+            "supportedModes": [
+                "main"
+            ],
+            "showAsSingleAction": true,
+            "actionEditorCommands": [],
+            "isMultiState": false,
+            "actions": [
+                "$@Generic___@TypeText___Use the Template Creator skill to create or update a reusable template that follows the requested workflow and established conventions."
+            ]
+        },
+        {
+            "$type": "Loupedeck.Service.ApplicationProfileMacroCommand, LoupedeckService",
+            "isCommand": true,
+            "name": "8E0E77B94E882204C046E3230226E037",
+            "displayName": "Sites",
+            "description": "Paste-only guided skill/tool prompt",
+            "groupName": "Create",
+            "superGroupName": "@macro",
+            "supportedOs": "All",
+            "supportedModes": [
+                "main"
+            ],
+            "showAsSingleAction": true,
+            "actionEditorCommands": [],
+            "isMultiState": false,
+            "actions": [
+                "$@Generic___@TypeText___Use the Sites plugin and its applicable building or hosting skill for this website task."
+            ]
+        },
+        {
+            "$type": "Loupedeck.Service.ApplicationProfileMacroCommand, LoupedeckService",
+            "isCommand": true,
+            "name": "1D7E675D9A96871B44BD09252A85591B",
+            "displayName": "Product Design",
+            "description": "Paste-only guided skill/tool prompt",
+            "groupName": "Create",
+            "superGroupName": "@macro",
+            "supportedOs": "All",
+            "supportedModes": [
+                "main"
+            ],
+            "showAsSingleAction": true,
+            "actionEditorCommands": [],
+            "isMultiState": false,
+            "actions": [
+                "$@Generic___@TypeText___Use the Product Design plugin and its best-fitting skill to audit, ideate, or implement this product-design task."
+            ]
+        },
+        {
+            "$type": "Loupedeck.Service.ApplicationProfileMacroCommand, LoupedeckService",
+            "isCommand": true,
+            "name": "64D9922E8CF45C0692D49EDC3F2FBDED",
+            "displayName": "Expo",
+            "description": "Paste-only guided skill/tool prompt",
+            "groupName": "Create",
+            "superGroupName": "@macro",
+            "supportedOs": "All",
+            "supportedModes": [
+                "main"
+            ],
+            "showAsSingleAction": true,
+            "actionEditorCommands": [],
+            "isMultiState": false,
+            "actions": [
+                "$@Generic___@TypeText___Use the Expo plugin and its most applicable skill for this React Native or Expo task while preserving native platform behavior."
+            ]
+        },
+        {
+            "$type": "Loupedeck.Service.ApplicationProfileMacroCommand, LoupedeckService",
+            "isCommand": true,
+            "name": "A688C66F8F5B357D642F07EDE6E4D269",
+            "displayName": "Remotion",
+            "description": "Paste-only guided skill/tool prompt",
+            "groupName": "Create",
+            "superGroupName": "@macro",
+            "supportedOs": "All",
+            "supportedModes": [
+                "main"
+            ],
+            "showAsSingleAction": true,
+            "actionEditorCommands": [],
+            "isMultiState": false,
+            "actions": [
+                "$@Generic___@TypeText___Use the Remotion skill and its established best practices for this video composition or rendering task."
+            ]
+        },
+        {
+            "$type": "Loupedeck.Service.ApplicationProfileMacroCommand, LoupedeckService",
+            "isCommand": true,
+            "name": "4664415A5A3A198EFD4AF0AFA72AC9F4",
+            "displayName": "LR HDR",
+            "description": "Paste-only guided skill/tool prompt",
+            "groupName": "Create",
+            "superGroupName": "@macro",
+            "supportedOs": "All",
+            "supportedModes": [
+                "main"
+            ],
+            "showAsSingleAction": true,
+            "actionEditorCommands": [],
+            "isMultiState": false,
+            "actions": [
+                "$@Generic___@TypeText___Use the $lightroom-classic-hdr-import skill for this SD-card import, auto-stack, or batch HDR task. Preserve the current Lightroom destination and settings."
+            ]
+        },
+        {
+            "$type": "Loupedeck.Service.ApplicationProfileMacroCommand, LoupedeckService",
+            "isCommand": true,
+            "name": "E838D302AAA2C22D0F47439DE4A6E7B3",
+            "displayName": "ImageGen",
+            "description": "Paste-only guided skill/tool prompt",
+            "groupName": "Create",
+            "superGroupName": "@macro",
+            "supportedOs": "All",
+            "supportedModes": [
+                "main"
+            ],
+            "showAsSingleAction": true,
+            "actionEditorCommands": [],
+            "isMultiState": false,
+            "actions": [
+                "$@Generic___@TypeText___Use the ImageGen skill to create or edit the requested image, matching supplied references and preserving required text and layout constraints."
+            ]
+        },
+        {
+            "$type": "Loupedeck.Service.ApplicationProfileMacroCommand, LoupedeckService",
+            "isCommand": true,
+            "name": "29000A7BBD3E7D054E46E1DEC3AB80C6",
+            "displayName": "Browser",
+            "description": "Paste-only guided skill/tool prompt",
+            "groupName": "Operate",
+            "superGroupName": "@macro",
+            "supportedOs": "All",
+            "supportedModes": [
+                "main"
+            ],
+            "showAsSingleAction": true,
+            "actionEditorCommands": [],
+            "isMultiState": false,
+            "actions": [
+                "$@Generic___@TypeText___Use the Browser plugin to inspect or operate the in-app browser for this task. Read the visible state before taking action."
+            ]
+        },
+        {
+            "$type": "Loupedeck.Service.ApplicationProfileMacroCommand, LoupedeckService",
+            "isCommand": true,
+            "name": "B28BE10E3D892E0929057545FD6EE70B",
+            "displayName": "Computer",
+            "description": "Paste-only guided skill/tool prompt",
+            "groupName": "Operate",
+            "superGroupName": "@macro",
+            "supportedOs": "All",
+            "supportedModes": [
+                "main"
+            ],
+            "showAsSingleAction": true,
+            "actionEditorCommands": [],
+            "isMultiState": false,
+            "actions": [
+                "$@Generic___@TypeText___Use the Computer Use plugin to inspect or operate the relevant Mac app for this task, following the applicable safety and confirmation rules."
+            ]
+        },
+        {
+            "$type": "Loupedeck.Service.ApplicationProfileMacroCommand, LoupedeckService",
+            "isCommand": true,
+            "name": "585A2A6AD9187E95CAEFFD80F218B4D8",
+            "displayName": "Gmail",
+            "description": "Paste-only guided skill/tool prompt",
+            "groupName": "Operate",
+            "superGroupName": "@macro",
+            "supportedOs": "All",
+            "supportedModes": [
+                "main"
+            ],
+            "showAsSingleAction": true,
+            "actionEditorCommands": [],
+            "isMultiState": false,
+            "actions": [
+                "$@Generic___@TypeText___Use the Gmail plugin and its applicable skill for this task. Read first and stage consequential actions unless I explicitly authorize them."
+            ]
+        },
+        {
+            "$type": "Loupedeck.Service.ApplicationProfileMacroCommand, LoupedeckService",
+            "isCommand": true,
+            "name": "03BF5EFC213583144470C1B530C8F215",
+            "displayName": "Mail",
+            "description": "Paste-only guided skill/tool prompt",
+            "groupName": "Operate",
+            "superGroupName": "@macro",
+            "supportedOs": "All",
+            "supportedModes": [
+                "main"
+            ],
+            "showAsSingleAction": true,
+            "actionEditorCommands": [],
+            "isMultiState": false,
+            "actions": [
+                "$@Generic___@TypeText___Use Computer Use with Apple Mail for this task. Follow the active workspace’s Mail rules, inspect the targeted message first, and do not mutate Mail unless I explicitly authorize it."
+            ]
+        },
+        {
+            "$type": "Loupedeck.Service.ApplicationProfileMacroCommand, LoupedeckService",
+            "isCommand": true,
+            "name": "A16A13105FB06985490FEFDFCB4BB1AF",
+            "displayName": "Lightroom",
+            "description": "Paste-only guided skill/tool prompt",
+            "groupName": "Operate",
+            "superGroupName": "@macro",
+            "supportedOs": "All",
+            "supportedModes": [
+                "main"
+            ],
+            "showAsSingleAction": true,
+            "actionEditorCommands": [],
+            "isMultiState": false,
+            "actions": [
+                "$@Generic___@TypeText___Use Computer Use with Adobe Lightroom Classic for this task. Inspect the current catalog and app state first and preserve existing import, metadata, file, and destination settings."
+            ]
+        },
+        {
+            "$type": "Loupedeck.Service.ApplicationProfileMacroCommand, LoupedeckService",
+            "isCommand": true,
+            "name": "78E412EFDDAA3EDD574B21DAF6C4221B",
+            "displayName": "Numbers",
+            "description": "Paste-only guided skill/tool prompt",
+            "groupName": "Operate",
+            "superGroupName": "@macro",
+            "supportedOs": "All",
+            "supportedModes": [
+                "main"
+            ],
+            "showAsSingleAction": true,
+            "actionEditorCommands": [],
+            "isMultiState": false,
+            "actions": [
+                "$@Generic___@TypeText___Use Computer Use with Apple Numbers for this task. Preserve formulas, formatting, sheets, and data unless I request changes."
+            ]
+        },
+        {
+            "$type": "Loupedeck.Service.ApplicationProfileMacroCommand, LoupedeckService",
+            "isCommand": true,
+            "name": "A573B40FEC6A81DE9E9A5BE83B6ADF79",
+            "displayName": "Pages",
+            "description": "Paste-only guided skill/tool prompt",
+            "groupName": "Operate",
+            "superGroupName": "@macro",
+            "supportedOs": "All",
+            "supportedModes": [
+                "main"
+            ],
+            "showAsSingleAction": true,
+            "actionEditorCommands": [],
+            "isMultiState": false,
+            "actions": [
+                "$@Generic___@TypeText___Use Computer Use with Apple Pages for this task. Preserve document structure, styles, and content unless I request changes."
+            ]
+        },
+        {
+            "$type": "Loupedeck.Service.ApplicationProfileMacroCommand, LoupedeckService",
+            "isCommand": true,
+            "name": "46917451C0ADA645994C29D47EE199F5",
+            "displayName": "GitHub",
+            "description": "Paste-only guided skill/tool prompt",
+            "groupName": "Operate",
+            "superGroupName": "@macro",
+            "supportedOs": "All",
+            "supportedModes": [
+                "main"
+            ],
+            "showAsSingleAction": true,
+            "actionEditorCommands": [],
+            "isMultiState": false,
+            "actions": [
+                "$@Generic___@TypeText___Use the GitHub plugin and its best-fitting skill for this repository or pull-request task. Inspect the current state before any external mutation."
+            ]
+        },
+        {
+            "$type": "Loupedeck.Service.ApplicationProfileMacroCommand, LoupedeckService",
+            "isCommand": true,
+            "name": "50BEA4F46DF9721A058B88DE2F4F4BB9",
+            "displayName": "Calendar",
+            "description": "Paste-only guided skill/tool prompt",
+            "groupName": "Operate",
+            "superGroupName": "@macro",
+            "supportedOs": "All",
+            "supportedModes": [
+                "main"
+            ],
+            "showAsSingleAction": true,
+            "actionEditorCommands": [],
+            "isMultiState": false,
+            "actions": [
+                "$@Generic___@TypeText___Use the Google Calendar plugin for this task. Read current state first and do not create, edit, or delete events unless explicitly authorized."
+            ]
+        },
+        {
+            "$type": "Loupedeck.Service.ApplicationProfileMacroCommand, LoupedeckService",
+            "isCommand": true,
+            "name": "46F78C8778B03943A9173326288B4124",
+            "displayName": "Drive",
+            "description": "Paste-only guided skill/tool prompt",
+            "groupName": "Operate",
+            "superGroupName": "@macro",
+            "supportedOs": "All",
+            "supportedModes": [
+                "main"
+            ],
+            "showAsSingleAction": true,
+            "actionEditorCommands": [],
+            "isMultiState": false,
+            "actions": [
+                "$@Generic___@TypeText___Use the Google Drive plugin for this task. Preserve ownership and sharing, and do not move or delete content unless explicitly requested."
+            ]
+        },
+        {
+            "$type": "Loupedeck.Service.ApplicationProfileMacroCommand, LoupedeckService",
+            "isCommand": true,
+            "name": "9CB15342AA42CA2D3B5897DE7157E686",
+            "displayName": "OpenAI Docs",
+            "description": "Paste-only guided skill/tool prompt",
+            "groupName": "Operate",
+            "superGroupName": "@macro",
+            "supportedOs": "All",
+            "supportedModes": [
+                "main"
+            ],
+            "showAsSingleAction": true,
+            "actionEditorCommands": [],
+            "isMultiState": false,
+            "actions": [
+                "$@Generic___@TypeText___Use the OpenAI Docs skill and official OpenAI sources for this OpenAI product or API task."
+            ]
+        },
+        {
+            "$type": "Loupedeck.Service.ApplicationProfileMacroCommand, LoupedeckService",
+            "isCommand": true,
+            "name": "6827D4F953ADDFC9E9240AD7160393E3",
+            "displayName": "Canva",
+            "description": "Paste-only guided skill/tool prompt",
+            "groupName": "Operate",
+            "superGroupName": "@macro",
+            "supportedOs": "All",
+            "supportedModes": [
+                "main"
+            ],
+            "showAsSingleAction": true,
+            "actionEditorCommands": [],
+            "isMultiState": false,
+            "actions": [
+                "$@Generic___@TypeText___Use the Canva plugin and its best-fitting skill for this design task, preserving brand and layout constraints."
+            ]
+        }
+    ],
+    "macroAdjustments": [
+        {
+            "$type": "Loupedeck.Service.ApplicationProfileMacroAdjustment, LoupedeckService",
+            "isCommand": false,
+            "name": "7B8512A6460A086757BCF76359A9FB21",
+            "displayName": "Task History",
+            "description": "Codex Control · Task History",
+            "groupName": "Codex Control",
+            "superGroupName": "@macro",
+            "supportedOs": "All",
+            "supportedModes": [
+                "main"
+            ],
+            "showAsSingleAction": false,
+            "actionEditorCommands": [
+                {
+                    "$type": "Loupedeck.Service.MacroActionEditorCommand, LoupedeckService",
+                    "name": "1AFEBCAD98912CC423C43E3B530D0CBE",
+                    "templateName": "$@Generic___@KeyboardKey",
+                    "actionParameters": {
+                        "$type": "System.Collections.Generic.Dictionary`2[[System.String, System.Private.CoreLib],[System.String, System.Private.CoreLib]], System.Private.CoreLib",
+                        "keyboardKey": "Command+Shift+Oem4___1033___Cmd+Shift+Oem4___"
+                    }
+                },
+                {
+                    "$type": "Loupedeck.Service.MacroActionEditorCommand, LoupedeckService",
+                    "name": "96342FF083431EECF52F3793A0614241",
+                    "templateName": "$@Generic___@KeyboardKey",
+                    "actionParameters": {
+                        "$type": "System.Collections.Generic.Dictionary`2[[System.String, System.Private.CoreLib],[System.String, System.Private.CoreLib]], System.Private.CoreLib",
+                        "keyboardKey": "Command+Shift+Oem6___1033___Cmd+Shift+Oem6___"
+                    }
+                }
+            ],
+            "actionsBefore": [],
+            "actionsLeft": [
+                "1AFEBCAD98912CC423C43E3B530D0CBE"
+            ],
+            "actionsRight": [
+                "96342FF083431EECF52F3793A0614241"
+            ],
+            "actionsReset": [],
+            "clickRateLimit": 9
+        },
+        {
+            "$type": "Loupedeck.Service.ApplicationProfileMacroAdjustment, LoupedeckService",
+            "isCommand": false,
+            "name": "F64C518638A27492C3721B649444F315",
+            "displayName": "Transcript Scroll",
+            "description": "Codex Control · Transcript Scroll",
+            "groupName": "Codex Control",
+            "superGroupName": "@macro",
+            "supportedOs": "All",
+            "supportedModes": [
+                "main"
+            ],
+            "showAsSingleAction": false,
+            "actionEditorCommands": [
+                {
+                    "$type": "Loupedeck.Service.MacroActionEditorCommand, LoupedeckService",
+                    "name": "E5240980243FAFF8D885015593676C0B",
+                    "templateName": "$@Generic___@KeyboardKey",
+                    "actionParameters": {
+                        "$type": "System.Collections.Generic.Dictionary`2[[System.String, System.Private.CoreLib],[System.String, System.Private.CoreLib]], System.Private.CoreLib",
+                        "keyboardKey": "ArrowUp___1033___ArrowUp___"
+                    }
+                },
+                {
+                    "$type": "Loupedeck.Service.MacroActionEditorCommand, LoupedeckService",
+                    "name": "6EB64314E62CAD690BDB57CD65AC318A",
+                    "templateName": "$@Generic___@KeyboardKey",
+                    "actionParameters": {
+                        "$type": "System.Collections.Generic.Dictionary`2[[System.String, System.Private.CoreLib],[System.String, System.Private.CoreLib]], System.Private.CoreLib",
+                        "keyboardKey": "ArrowDown___1033___ArrowDown___"
+                    }
+                }
+            ],
+            "actionsBefore": [],
+            "actionsLeft": [
+                "E5240980243FAFF8D885015593676C0B"
+            ],
+            "actionsRight": [
+                "6EB64314E62CAD690BDB57CD65AC318A"
+            ],
+            "actionsReset": [],
+            "clickRateLimit": 9
+        },
+        {
+            "$type": "Loupedeck.Service.ApplicationProfileMacroAdjustment, LoupedeckService",
+            "isCommand": false,
+            "name": "FE8E8F27542E1F530FECD6DAFDD9C17D",
+            "displayName": "Interface Zoom",
+            "description": "Codex Control · Interface Zoom",
+            "groupName": "Codex Control",
+            "superGroupName": "@macro",
+            "supportedOs": "All",
+            "supportedModes": [
+                "main"
+            ],
+            "showAsSingleAction": false,
+            "actionEditorCommands": [
+                {
+                    "$type": "Loupedeck.Service.MacroActionEditorCommand, LoupedeckService",
+                    "name": "E27EC1C76D70209A9AAFB9504E5324FE",
+                    "templateName": "$@Generic___@KeyboardKey",
+                    "actionParameters": {
+                        "$type": "System.Collections.Generic.Dictionary`2[[System.String, System.Private.CoreLib],[System.String, System.Private.CoreLib]], System.Private.CoreLib",
+                        "keyboardKey": "Command+Minus___1033___Cmd+Minus___"
+                    }
+                },
+                {
+                    "$type": "Loupedeck.Service.MacroActionEditorCommand, LoupedeckService",
+                    "name": "3DB8FE65FE5A0D6494CF8905AEB6ED75",
+                    "templateName": "$@Generic___@KeyboardKey",
+                    "actionParameters": {
+                        "$type": "System.Collections.Generic.Dictionary`2[[System.String, System.Private.CoreLib],[System.String, System.Private.CoreLib]], System.Private.CoreLib",
+                        "keyboardKey": "Command+Equals___1033___Cmd+Equals___"
+                    }
+                },
+                {
+                    "$type": "Loupedeck.Service.MacroActionEditorCommand, LoupedeckService",
+                    "name": "BD91585E1C2E8CC9BA72CABCB4B8A85F",
+                    "templateName": "$@Generic___@KeyboardKey",
+                    "actionParameters": {
+                        "$type": "System.Collections.Generic.Dictionary`2[[System.String, System.Private.CoreLib],[System.String, System.Private.CoreLib]], System.Private.CoreLib",
+                        "keyboardKey": "Command+Key0___1033___Cmd+0___"
+                    }
+                }
+            ],
+            "actionsBefore": [],
+            "actionsLeft": [
+                "E27EC1C76D70209A9AAFB9504E5324FE"
+            ],
+            "actionsRight": [
+                "3DB8FE65FE5A0D6494CF8905AEB6ED75"
+            ],
+            "actionsReset": [
+                "BD91585E1C2E8CC9BA72CABCB4B8A85F"
+            ],
+            "clickRateLimit": 9
+        },
+        {
+            "$type": "Loupedeck.Service.ApplicationProfileMacroAdjustment, LoupedeckService",
+            "isCommand": false,
+            "name": "FDBDFC96479056EEFB30762BF6E09A00",
+            "displayName": "Reasoning Effort",
+            "description": "Codex Control · Reasoning Effort",
+            "groupName": "Codex Control",
+            "superGroupName": "@macro",
+            "supportedOs": "All",
+            "supportedModes": [
+                "main"
+            ],
+            "showAsSingleAction": false,
+            "actionEditorCommands": [
+                {
+                    "$type": "Loupedeck.Service.MacroActionEditorCommand, LoupedeckService",
+                    "name": "0A7DAC34CD961793CCAFCCF492E17255",
+                    "templateName": "$@Generic___@KeyboardKey",
+                    "actionParameters": {
+                        "$type": "System.Collections.Generic.Dictionary`2[[System.String, System.Private.CoreLib],[System.String, System.Private.CoreLib]], System.Private.CoreLib",
+                        "keyboardKey": "Command+Control+AltOrOption+Key3___1033___Cmd+Opt+Ctrl+3___"
+                    }
+                },
+                {
+                    "$type": "Loupedeck.Service.MacroActionEditorCommand, LoupedeckService",
+                    "name": "49BDEDDA6AB907756969B6832374CB0F",
+                    "templateName": "$@Generic___@KeyboardKey",
+                    "actionParameters": {
+                        "$type": "System.Collections.Generic.Dictionary`2[[System.String, System.Private.CoreLib],[System.String, System.Private.CoreLib]], System.Private.CoreLib",
+                        "keyboardKey": "Command+Control+AltOrOption+Key4___1033___Cmd+Opt+Ctrl+4___"
+                    }
+                },
+                {
+                    "$type": "Loupedeck.Service.MacroActionEditorCommand, LoupedeckService",
+                    "name": "8AF84C85F298AAAD78358B84C3599723",
+                    "templateName": "$@Generic___@KeyboardKey",
+                    "actionParameters": {
+                        "$type": "System.Collections.Generic.Dictionary`2[[System.String, System.Private.CoreLib],[System.String, System.Private.CoreLib]], System.Private.CoreLib",
+                        "keyboardKey": "Command+Control+AltOrOption+Key5___1033___Cmd+Opt+Ctrl+5___"
+                    }
+                }
+            ],
+            "actionsBefore": [],
+            "actionsLeft": [
+                "0A7DAC34CD961793CCAFCCF492E17255"
+            ],
+            "actionsRight": [
+                "49BDEDDA6AB907756969B6832374CB0F"
+            ],
+            "actionsReset": [
+                "8AF84C85F298AAAD78358B84C3599723"
+            ],
+            "clickRateLimit": 9
+        },
+        {
+            "$type": "Loupedeck.Service.ApplicationProfileMacroAdjustment, LoupedeckService",
+            "isCommand": false,
+            "name": "9F45A79E4E5757DC0A917EDF8C115919",
+            "displayName": "Reasoning Wheel",
+            "description": "Codex Control · Reasoning Wheel",
+            "groupName": "Codex Control",
+            "superGroupName": "@macro",
+            "supportedOs": "All",
+            "supportedModes": [
+                "main"
+            ],
+            "showAsSingleAction": false,
+            "actionEditorCommands": [
+                {
+                    "$type": "Loupedeck.Service.MacroActionEditorCommand, LoupedeckService",
+                    "name": "944F2813E3C7999FCA93395C13DBB325",
+                    "templateName": "$@Generic___@KeyboardKey",
+                    "actionParameters": {
+                        "$type": "System.Collections.Generic.Dictionary`2[[System.String, System.Private.CoreLib],[System.String, System.Private.CoreLib]], System.Private.CoreLib",
+                        "keyboardKey": "Command+Control+AltOrOption+Key3___1033___Cmd+Opt+Ctrl+3___"
+                    }
+                },
+                {
+                    "$type": "Loupedeck.Service.MacroActionEditorCommand, LoupedeckService",
+                    "name": "5019FE66A2CA0CA4258B4A3049141C24",
+                    "templateName": "$@Generic___@KeyboardKey",
+                    "actionParameters": {
+                        "$type": "System.Collections.Generic.Dictionary`2[[System.String, System.Private.CoreLib],[System.String, System.Private.CoreLib]], System.Private.CoreLib",
+                        "keyboardKey": "Command+Control+AltOrOption+Key4___1033___Cmd+Opt+Ctrl+4___"
+                    }
+                },
+                {
+                    "$type": "Loupedeck.Service.MacroActionEditorCommand, LoupedeckService",
+                    "name": "C8B99B18AFDABA9465236B95F809B11F",
+                    "templateName": "$@Generic___@KeyboardKey",
+                    "actionParameters": {
+                        "$type": "System.Collections.Generic.Dictionary`2[[System.String, System.Private.CoreLib],[System.String, System.Private.CoreLib]], System.Private.CoreLib",
+                        "keyboardKey": "Command+Control+AltOrOption+Key5___1033___Cmd+Opt+Ctrl+5___"
+                    }
+                }
+            ],
+            "actionsBefore": [],
+            "actionsLeft": [
+                "944F2813E3C7999FCA93395C13DBB325"
+            ],
+            "actionsRight": [
+                "5019FE66A2CA0CA4258B4A3049141C24"
+            ],
+            "actionsReset": [
+                "C8B99B18AFDABA9465236B95F809B11F"
+            ],
+            "clickRateLimit": 9
+        },
+        {
+            "$type": "Loupedeck.Service.ApplicationProfileMacroAdjustment, LoupedeckService",
+            "isCommand": false,
+            "name": "7EC4D41A64F0662A34692BD6054DAAF2",
+            "displayName": "Tab Navigation",
+            "description": "Codex Control · Tab Navigation",
+            "groupName": "Codex Control",
+            "superGroupName": "@macro",
+            "supportedOs": "All",
+            "supportedModes": [
+                "main"
+            ],
+            "showAsSingleAction": false,
+            "actionEditorCommands": [
+                {
+                    "$type": "Loupedeck.Service.MacroActionEditorCommand, LoupedeckService",
+                    "name": "31F33EC89B21B2991F047DD61751DAE8",
+                    "templateName": "$@Generic___@KeyboardKey",
+                    "actionParameters": {
+                        "$type": "System.Collections.Generic.Dictionary`2[[System.String, System.Private.CoreLib],[System.String, System.Private.CoreLib]], System.Private.CoreLib",
+                        "keyboardKey": "Control+Shift+Tab___1033___Ctrl+Shift+Tab___"
+                    }
+                },
+                {
+                    "$type": "Loupedeck.Service.MacroActionEditorCommand, LoupedeckService",
+                    "name": "4A7E4699DC5968B548E40A621937F308",
+                    "templateName": "$@Generic___@KeyboardKey",
+                    "actionParameters": {
+                        "$type": "System.Collections.Generic.Dictionary`2[[System.String, System.Private.CoreLib],[System.String, System.Private.CoreLib]], System.Private.CoreLib",
+                        "keyboardKey": "Control+Tab___1033___Ctrl+Tab___"
+                    }
+                }
+            ],
+            "actionsBefore": [],
+            "actionsLeft": [
+                "31F33EC89B21B2991F047DD61751DAE8"
+            ],
+            "actionsRight": [
+                "4A7E4699DC5968B548E40A621937F308"
+            ],
+            "actionsReset": [],
+            "clickRateLimit": 9
+        }
+    ],
+    "profileCommands": [],
+    "profileAdjustments": [],
+    "conversionHistory": "Codex Control v1.0.0\r\n",
+    "packageName": null,
+    "packageVersion": null,
+    "profileActions": [
+        {
+            "$type": "Loupedeck.Service.ApplicationProfileCommand, LoupedeckService",
+            "isCommand": true,
+            "name": "$@Generic___@ProfileAction___FE9DF858E4DE996BEF8BE55399E0BFEA",
+            "templateActionName": "$@Generic___@KeyboardKey",
+            "actionParameters": {
+                "$type": "Loupedeck.ActionEditorActionParameters, PluginApi",
+                "parameters": {
+                    "$type": "Loupedeck.StringDictionaryNoCase, PluginApi",
+                    "keyboardKey": "Command+KeyN___1033___Cmd+N___"
+                },
+                "count": 1
+            },
+            "displayName": "New Chat",
+            "description": "Codex Control · New Chat",
+            "groupName": "Codex Control",
+            "superGroupName": "@macro",
+            "isProfileAction": true,
+            "isMultiState": false,
+            "isResetCommand": false,
+            "adjustmentName": null,
+            "states": null
+        },
+        {
+            "$type": "Loupedeck.Service.ApplicationProfileCommand, LoupedeckService",
+            "isCommand": true,
+            "name": "$@Generic___@ProfileAction___D39EEF2AABB37AEFF3CDB04C3CA4F836",
+            "templateActionName": "$@Generic___@KeyboardKey",
+            "actionParameters": {
+                "$type": "Loupedeck.ActionEditorActionParameters, PluginApi",
+                "parameters": {
+                    "$type": "Loupedeck.StringDictionaryNoCase, PluginApi",
+                    "keyboardKey": "Command+AltOrOption+KeyN___1033___Cmd+Opt+N___"
+                },
+                "count": 1
+            },
+            "displayName": "Quick Chat",
+            "description": "Codex Control · Quick Chat",
+            "groupName": "Codex Control",
+            "superGroupName": "@macro",
+            "isProfileAction": true,
+            "isMultiState": false,
+            "isResetCommand": false,
+            "adjustmentName": null,
+            "states": null
+        },
+        {
+            "$type": "Loupedeck.Service.ApplicationProfileCommand, LoupedeckService",
+            "isCommand": true,
+            "name": "$@Generic___@ProfileAction___1880EDD9D0AC09B7C9A2F0178DA3C091",
+            "templateActionName": "$@Generic___@KeyboardKey",
+            "actionParameters": {
+                "$type": "Loupedeck.ActionEditorActionParameters, PluginApi",
+                "parameters": {
+                    "$type": "Loupedeck.StringDictionaryNoCase, PluginApi",
+                    "keyboardKey": "Command+AltOrOption+KeyS___1033___Cmd+Opt+S___"
+                },
+                "count": 1
+            },
+            "displayName": "Side Chat",
+            "description": "Codex Control · Side Chat",
+            "groupName": "Codex Control",
+            "superGroupName": "@macro",
+            "isProfileAction": true,
+            "isMultiState": false,
+            "isResetCommand": false,
+            "adjustmentName": null,
+            "states": null
+        },
+        {
+            "$type": "Loupedeck.Service.ApplicationProfileCommand, LoupedeckService",
+            "isCommand": true,
+            "name": "$@Generic___@ProfileAction___789BFECDABD5F3C07C7F9949964B4E50",
+            "templateActionName": "$@Generic___@KeyboardKey",
+            "actionParameters": {
+                "$type": "Loupedeck.ActionEditorActionParameters, PluginApi",
+                "parameters": {
+                    "$type": "Loupedeck.StringDictionaryNoCase, PluginApi",
+                    "keyboardKey": "Command+Control+AltOrOption+Key8___1033___Cmd+Opt+Ctrl+8___"
+                },
+                "count": 1
+            },
+            "displayName": "Switch Chat",
+            "description": "Codex Control · Switch Chat",
+            "groupName": "Codex Control",
+            "superGroupName": "@macro",
+            "isProfileAction": true,
+            "isMultiState": false,
+            "isResetCommand": false,
+            "adjustmentName": null,
+            "states": null
+        },
+        {
+            "$type": "Loupedeck.Service.ApplicationProfileCommand, LoupedeckService",
+            "isCommand": true,
+            "name": "$@Generic___@ProfileAction___0EEF37F4608DAE638D278AD4F39DA16B",
+            "templateActionName": "$@Generic___@KeyboardKey",
+            "actionParameters": {
+                "$type": "Loupedeck.ActionEditorActionParameters, PluginApi",
+                "parameters": {
+                    "$type": "Loupedeck.StringDictionaryNoCase, PluginApi",
+                    "keyboardKey": "Command+AltOrOption+Shift+KeyO___1033___Cmd+Opt+Shift+O___"
+                },
+                "count": 1
+            },
+            "displayName": "Choose Project",
+            "description": "Codex Control · Choose Project",
+            "groupName": "Codex Control",
+            "superGroupName": "@macro",
+            "isProfileAction": true,
+            "isMultiState": false,
+            "isResetCommand": false,
+            "adjustmentName": null,
+            "states": null
+        },
+        {
+            "$type": "Loupedeck.Service.ApplicationProfileCommand, LoupedeckService",
+            "isCommand": true,
+            "name": "$@Generic___@ProfileAction___42EDB9D891186DFCF9F3C7061FC4A44D",
+            "templateActionName": "$@Generic___@KeyboardKey",
+            "actionParameters": {
+                "$type": "Loupedeck.ActionEditorActionParameters, PluginApi",
+                "parameters": {
+                    "$type": "Loupedeck.StringDictionaryNoCase, PluginApi",
+                    "keyboardKey": "Command+Control+AltOrOption+Key6___1033___Cmd+Opt+Ctrl+6___"
+                },
+                "count": 1
+            },
+            "displayName": "Add Files",
+            "description": "Codex Control · Add Files",
+            "groupName": "Codex Control",
+            "superGroupName": "@macro",
+            "isProfileAction": true,
+            "isMultiState": false,
+            "isResetCommand": false,
+            "adjustmentName": null,
+            "states": null
+        },
+        {
+            "$type": "Loupedeck.Service.ApplicationProfileCommand, LoupedeckService",
+            "isCommand": true,
+            "name": "$@Generic___@ProfileAction___CE07A8A7A31D32A039AFC567BDB75CE8",
+            "templateActionName": "$@Generic___@KeyboardKey",
+            "actionParameters": {
+                "$type": "Loupedeck.ActionEditorActionParameters, PluginApi",
+                "parameters": {
+                    "$type": "Loupedeck.StringDictionaryNoCase, PluginApi",
+                    "keyboardKey": "Command+Control+AltOrOption+Key7___1033___Cmd+Opt+Ctrl+7___"
+                },
+                "count": 1
+            },
+            "displayName": "Add Photos",
+            "description": "Codex Control · Add Photos",
+            "groupName": "Codex Control",
+            "superGroupName": "@macro",
+            "isProfileAction": true,
+            "isMultiState": false,
+            "isResetCommand": false,
+            "adjustmentName": null,
+            "states": null
+        },
+        {
+            "$type": "Loupedeck.Service.ApplicationProfileCommand, LoupedeckService",
+            "isCommand": true,
+            "name": "$@Generic___@ProfileAction___B270FBE796E4C9D4F24DE1942E5DF1E7",
+            "templateActionName": "$@Generic___@KeyboardKey",
+            "actionParameters": {
+                "$type": "Loupedeck.ActionEditorActionParameters, PluginApi",
+                "parameters": {
+                    "$type": "Loupedeck.StringDictionaryNoCase, PluginApi",
+                    "keyboardKey": "Control+Shift+KeyM___1033___Ctrl+Shift+M___"
+                },
+                "count": 1
+            },
+            "displayName": "Choose Model",
+            "description": "Codex Control · Choose Model",
+            "groupName": "Codex Control",
+            "superGroupName": "@macro",
+            "isProfileAction": true,
+            "isMultiState": false,
+            "isResetCommand": false,
+            "adjustmentName": null,
+            "states": null
+        },
+        {
+            "$type": "Loupedeck.Service.ApplicationProfileCommand, LoupedeckService",
+            "isCommand": true,
+            "name": "$@Generic___@ProfileAction___3A7B582F7FFA603A67E296E5BB20E073",
+            "templateActionName": "$@Generic___@KeyboardKey",
+            "actionParameters": {
+                "$type": "Loupedeck.ActionEditorActionParameters, PluginApi",
+                "parameters": {
+                    "$type": "Loupedeck.StringDictionaryNoCase, PluginApi",
+                    "keyboardKey": "Command+Control+AltOrOption+Key9___1033___Cmd+Opt+Ctrl+9___"
+                },
+                "count": 1
+            },
+            "displayName": "Voice",
+            "description": "Codex Control · Voice",
+            "groupName": "Codex Control",
+            "superGroupName": "@macro",
+            "isProfileAction": true,
+            "isMultiState": false,
+            "isResetCommand": false,
+            "adjustmentName": null,
+            "states": null
+        },
+        {
+            "$type": "Loupedeck.Service.ApplicationProfileCommand, LoupedeckService",
+            "isCommand": true,
+            "name": "$@Generic___@ProfileAction___FC185FFE230932699226E1A5269EACFA",
+            "templateActionName": "$@Generic___@KeyboardKey",
+            "actionParameters": {
+                "$type": "Loupedeck.ActionEditorActionParameters, PluginApi",
+                "parameters": {
+                    "$type": "Loupedeck.StringDictionaryNoCase, PluginApi",
+                    "keyboardKey": "Command+Control+AltOrOption+Key0___1033___Cmd+Opt+Ctrl+0___"
+                },
+                "count": 1
+            },
+            "displayName": "Dictate",
+            "description": "Codex Control · Dictate",
+            "groupName": "Codex Control",
+            "superGroupName": "@macro",
+            "isProfileAction": true,
+            "isMultiState": false,
+            "isResetCommand": false,
+            "adjustmentName": null,
+            "states": null
+        },
+        {
+            "$type": "Loupedeck.Service.ApplicationProfileCommand, LoupedeckService",
+            "isCommand": true,
+            "name": "$@Generic___@ProfileAction___C455464D6B93DF82BA816F889F6D6B99",
+            "templateActionName": "$@Generic___@KeyboardKey",
+            "actionParameters": {
+                "$type": "Loupedeck.ActionEditorActionParameters, PluginApi",
+                "parameters": {
+                    "$type": "Loupedeck.StringDictionaryNoCase, PluginApi",
+                    "keyboardKey": "Command+Control+AltOrOption+Key1___1033___Cmd+Opt+Ctrl+1___"
+                },
+                "count": 1
+            },
+            "displayName": "Plan Mode",
+            "description": "Codex Control · Plan Mode",
+            "groupName": "Codex Control",
+            "superGroupName": "@macro",
+            "isProfileAction": true,
+            "isMultiState": false,
+            "isResetCommand": false,
+            "adjustmentName": null,
+            "states": null
+        },
+        {
+            "$type": "Loupedeck.Service.ApplicationProfileCommand, LoupedeckService",
+            "isCommand": true,
+            "name": "$@Generic___@ProfileAction___FDEF4464B3AF732637E36C255F7C84CC",
+            "templateActionName": "$@Generic___@KeyboardKey",
+            "actionParameters": {
+                "$type": "Loupedeck.ActionEditorActionParameters, PluginApi",
+                "parameters": {
+                    "$type": "Loupedeck.StringDictionaryNoCase, PluginApi",
+                    "keyboardKey": "Command+Control+AltOrOption+Key2___1033___Cmd+Opt+Ctrl+2___"
+                },
+                "count": 1
+            },
+            "displayName": "Fast Mode",
+            "description": "Codex Control · Fast Mode",
+            "groupName": "Codex Control",
+            "superGroupName": "@macro",
+            "isProfileAction": true,
+            "isMultiState": false,
+            "isResetCommand": false,
+            "adjustmentName": null,
+            "states": null
+        },
+        {
+            "$type": "Loupedeck.Service.ApplicationProfileCommand, LoupedeckService",
+            "isCommand": true,
+            "name": "$@Generic___@ProfileAction___F0BD74D9F0489331D09E2D974020852E",
+            "templateActionName": "$@Generic___@KeyboardKey",
+            "actionParameters": {
+                "$type": "Loupedeck.ActionEditorActionParameters, PluginApi",
+                "parameters": {
+                    "$type": "Loupedeck.StringDictionaryNoCase, PluginApi",
+                    "keyboardKey": "Command+Shift+Oem4___1033___Cmd+Shift+Oem4___"
+                },
+                "count": 1
+            },
+            "displayName": "Previous Task",
+            "description": "Codex Control · Previous Task",
+            "groupName": "Codex Control",
+            "superGroupName": "@macro",
+            "isProfileAction": true,
+            "isMultiState": false,
+            "isResetCommand": false,
+            "adjustmentName": null,
+            "states": null
+        },
+        {
+            "$type": "Loupedeck.Service.ApplicationProfileCommand, LoupedeckService",
+            "isCommand": true,
+            "name": "$@Generic___@ProfileAction___B48B61AF8F04327BBB027883C91D69FE",
+            "templateActionName": "$@Generic___@KeyboardKey",
+            "actionParameters": {
+                "$type": "Loupedeck.ActionEditorActionParameters, PluginApi",
+                "parameters": {
+                    "$type": "Loupedeck.StringDictionaryNoCase, PluginApi",
+                    "keyboardKey": "Command+Shift+Oem6___1033___Cmd+Shift+Oem6___"
+                },
+                "count": 1
+            },
+            "displayName": "Next Task",
+            "description": "Codex Control · Next Task",
+            "groupName": "Codex Control",
+            "superGroupName": "@macro",
+            "isProfileAction": true,
+            "isMultiState": false,
+            "isResetCommand": false,
+            "adjustmentName": null,
+            "states": null
+        },
+        {
+            "$type": "Loupedeck.Service.ApplicationProfileCommand, LoupedeckService",
+            "isCommand": true,
+            "name": "$@Generic___@ProfileAction___C1A434826F3CF5520E7C6557C0BC288E",
+            "templateActionName": "$@Generic___@KeyboardKey",
+            "actionParameters": {
+                "$type": "Loupedeck.ActionEditorActionParameters, PluginApi",
+                "parameters": {
+                    "$type": "Loupedeck.StringDictionaryNoCase, PluginApi",
+                    "keyboardKey": "Enter___1033___Return___"
+                },
+                "count": 1
+            },
+            "displayName": "Approve",
+            "description": "Codex Control · Approve",
+            "groupName": "Codex Control",
+            "superGroupName": "@macro",
+            "isProfileAction": true,
+            "isMultiState": false,
+            "isResetCommand": false,
+            "adjustmentName": null,
+            "states": null
+        },
+        {
+            "$type": "Loupedeck.Service.ApplicationProfileCommand, LoupedeckService",
+            "isCommand": true,
+            "name": "$@Generic___@ProfileAction___465A04D391CDB36E967C3504EF35519E",
+            "templateActionName": "$@Generic___@KeyboardKey",
+            "actionParameters": {
+                "$type": "Loupedeck.ActionEditorActionParameters, PluginApi",
+                "parameters": {
+                    "$type": "Loupedeck.StringDictionaryNoCase, PluginApi",
+                    "keyboardKey": "Escape___1033___Escape___"
+                },
+                "count": 1
+            },
+            "displayName": "Decline / Cancel",
+            "description": "Codex Control · Decline / Cancel",
+            "groupName": "Codex Control",
+            "superGroupName": "@macro",
+            "isProfileAction": true,
+            "isMultiState": false,
+            "isResetCommand": false,
+            "adjustmentName": null,
+            "states": null
+        },
+        {
+            "$type": "Loupedeck.Service.ApplicationProfileCommand, LoupedeckService",
+            "isCommand": true,
+            "name": "$@Generic___@ProfileAction___671037E0BB170D977AA0C011FC216BB6",
+            "templateActionName": "$@Generic___@KeyboardKey",
+            "actionParameters": {
+                "$type": "Loupedeck.ActionEditorActionParameters, PluginApi",
+                "parameters": {
+                    "$type": "Loupedeck.StringDictionaryNoCase, PluginApi",
+                    "keyboardKey": "Command+Control+AltOrOption+Key3___1033___Cmd+Opt+Ctrl+3___"
+                },
+                "count": 1
+            },
+            "displayName": "Reasoning Down",
+            "description": "Codex Control · Reasoning Down",
+            "groupName": "Codex Control",
+            "superGroupName": "@macro",
+            "isProfileAction": true,
+            "isMultiState": false,
+            "isResetCommand": false,
+            "adjustmentName": null,
+            "states": null
+        },
+        {
+            "$type": "Loupedeck.Service.ApplicationProfileCommand, LoupedeckService",
+            "isCommand": true,
+            "name": "$@Generic___@ProfileAction___E5C8FD936CF97B246294A9C7AFED043F",
+            "templateActionName": "$@Generic___@KeyboardKey",
+            "actionParameters": {
+                "$type": "Loupedeck.ActionEditorActionParameters, PluginApi",
+                "parameters": {
+                    "$type": "Loupedeck.StringDictionaryNoCase, PluginApi",
+                    "keyboardKey": "Command+Control+AltOrOption+Key4___1033___Cmd+Opt+Ctrl+4___"
+                },
+                "count": 1
+            },
+            "displayName": "Reasoning Up",
+            "description": "Codex Control · Reasoning Up",
+            "groupName": "Codex Control",
+            "superGroupName": "@macro",
+            "isProfileAction": true,
+            "isMultiState": false,
+            "isResetCommand": false,
+            "adjustmentName": null,
+            "states": null
+        },
+        {
+            "$type": "Loupedeck.Service.ApplicationProfileCommand, LoupedeckService",
+            "isCommand": true,
+            "name": "$@Generic___@ProfileAction___D69889679D8697B4C290370B980CA905",
+            "templateActionName": "$@Generic___@KeyboardKey",
+            "actionParameters": {
+                "$type": "Loupedeck.ActionEditorActionParameters, PluginApi",
+                "parameters": {
+                    "$type": "Loupedeck.StringDictionaryNoCase, PluginApi",
+                    "keyboardKey": "Command+Control+AltOrOption+Key5___1033___Cmd+Opt+Ctrl+5___"
+                },
+                "count": 1
+            },
+            "displayName": "Cycle Reasoning",
+            "description": "Codex Control · Cycle Reasoning",
+            "groupName": "Codex Control",
+            "superGroupName": "@macro",
+            "isProfileAction": true,
+            "isMultiState": false,
+            "isResetCommand": false,
+            "adjustmentName": null,
+            "states": null
+        },
+        {
+            "$type": "Loupedeck.Service.ApplicationProfileCommand, LoupedeckService",
+            "isCommand": true,
+            "name": "$@Generic___@ProfileAction___4C6F522605FB2E35637FC183BB55C9F2",
+            "templateActionName": "$@Generic___@KeyboardKey",
+            "actionParameters": {
+                "$type": "Loupedeck.ActionEditorActionParameters, PluginApi",
+                "parameters": {
+                    "$type": "Loupedeck.StringDictionaryNoCase, PluginApi",
+                    "keyboardKey": "Control+Oem3___1033___Ctrl+`___"
+                },
+                "count": 1
+            },
+            "displayName": "Open Terminal",
+            "description": "Codex Control · Open Terminal",
+            "groupName": "Codex Control",
+            "superGroupName": "@macro",
+            "isProfileAction": true,
+            "isMultiState": false,
+            "isResetCommand": false,
+            "adjustmentName": null,
+            "states": null
+        },
+        {
+            "$type": "Loupedeck.Service.ApplicationProfileCommand, LoupedeckService",
+            "isCommand": true,
+            "name": "$@Generic___@ProfileAction___0BC02DA01B7947391293B70923469E87",
+            "templateActionName": "$@Generic___@KeyboardKey",
+            "actionParameters": {
+                "$type": "Loupedeck.ActionEditorActionParameters, PluginApi",
+                "parameters": {
+                    "$type": "Loupedeck.StringDictionaryNoCase, PluginApi",
+                    "keyboardKey": "Command+Key0___1033___Cmd+0___"
+                },
+                "count": 1
+            },
+            "displayName": "Reset Zoom",
+            "description": "Codex Control · Reset Zoom",
+            "groupName": "Codex Control",
+            "superGroupName": "@macro",
+            "isProfileAction": true,
+            "isMultiState": false,
+            "isResetCommand": false,
+            "adjustmentName": null,
+            "states": null
+        },
+        {
+            "$type": "Loupedeck.Service.ApplicationProfileCommand, LoupedeckService",
+            "isCommand": true,
+            "name": "$@Generic___@ProfileAction___61577E8FC96A2501DC193B11973439B0",
+            "templateActionName": "$@Generic___@KeyboardKey",
+            "actionParameters": {
+                "$type": "Loupedeck.ActionEditorActionParameters, PluginApi",
+                "parameters": {
+                    "$type": "Loupedeck.StringDictionaryNoCase, PluginApi",
+                    "keyboardKey": "Command+Key1___1033___Cmd+1___"
+                },
+                "count": 1
+            },
+            "displayName": "Task 1",
+            "description": "Codex Control · Task 1",
+            "groupName": "Codex Control",
+            "superGroupName": "@macro",
+            "isProfileAction": true,
+            "isMultiState": false,
+            "isResetCommand": false,
+            "adjustmentName": null,
+            "states": null
+        },
+        {
+            "$type": "Loupedeck.Service.ApplicationProfileCommand, LoupedeckService",
+            "isCommand": true,
+            "name": "$@Generic___@ProfileAction___8251540708F1E035138CBCA209312907",
+            "templateActionName": "$@Generic___@KeyboardKey",
+            "actionParameters": {
+                "$type": "Loupedeck.ActionEditorActionParameters, PluginApi",
+                "parameters": {
+                    "$type": "Loupedeck.StringDictionaryNoCase, PluginApi",
+                    "keyboardKey": "Command+Key2___1033___Cmd+2___"
+                },
+                "count": 1
+            },
+            "displayName": "Task 2",
+            "description": "Codex Control · Task 2",
+            "groupName": "Codex Control",
+            "superGroupName": "@macro",
+            "isProfileAction": true,
+            "isMultiState": false,
+            "isResetCommand": false,
+            "adjustmentName": null,
+            "states": null
+        },
+        {
+            "$type": "Loupedeck.Service.ApplicationProfileCommand, LoupedeckService",
+            "isCommand": true,
+            "name": "$@Generic___@ProfileAction___F5A8D0DBCF119F9CB0D55881B8F2010B",
+            "templateActionName": "$@Generic___@KeyboardKey",
+            "actionParameters": {
+                "$type": "Loupedeck.ActionEditorActionParameters, PluginApi",
+                "parameters": {
+                    "$type": "Loupedeck.StringDictionaryNoCase, PluginApi",
+                    "keyboardKey": "Command+Key3___1033___Cmd+3___"
+                },
+                "count": 1
+            },
+            "displayName": "Task 3",
+            "description": "Codex Control · Task 3",
+            "groupName": "Codex Control",
+            "superGroupName": "@macro",
+            "isProfileAction": true,
+            "isMultiState": false,
+            "isResetCommand": false,
+            "adjustmentName": null,
+            "states": null
+        },
+        {
+            "$type": "Loupedeck.Service.ApplicationProfileCommand, LoupedeckService",
+            "isCommand": true,
+            "name": "$@Generic___@ProfileAction___E67E30EA8309B3939D315145C1A3FF2D",
+            "templateActionName": "$@Generic___@KeyboardKey",
+            "actionParameters": {
+                "$type": "Loupedeck.ActionEditorActionParameters, PluginApi",
+                "parameters": {
+                    "$type": "Loupedeck.StringDictionaryNoCase, PluginApi",
+                    "keyboardKey": "Command+Key4___1033___Cmd+4___"
+                },
+                "count": 1
+            },
+            "displayName": "Task 4",
+            "description": "Codex Control · Task 4",
+            "groupName": "Codex Control",
+            "superGroupName": "@macro",
+            "isProfileAction": true,
+            "isMultiState": false,
+            "isResetCommand": false,
+            "adjustmentName": null,
+            "states": null
+        },
+        {
+            "$type": "Loupedeck.Service.ApplicationProfileCommand, LoupedeckService",
+            "isCommand": true,
+            "name": "$@Generic___@ProfileAction___11CDA2235272425DCE7C595418C944FB",
+            "templateActionName": "$@Generic___@KeyboardKey",
+            "actionParameters": {
+                "$type": "Loupedeck.ActionEditorActionParameters, PluginApi",
+                "parameters": {
+                    "$type": "Loupedeck.StringDictionaryNoCase, PluginApi",
+                    "keyboardKey": "Command+Key5___1033___Cmd+5___"
+                },
+                "count": 1
+            },
+            "displayName": "Task 5",
+            "description": "Codex Control · Task 5",
+            "groupName": "Codex Control",
+            "superGroupName": "@macro",
+            "isProfileAction": true,
+            "isMultiState": false,
+            "isResetCommand": false,
+            "adjustmentName": null,
+            "states": null
+        },
+        {
+            "$type": "Loupedeck.Service.ApplicationProfileCommand, LoupedeckService",
+            "isCommand": true,
+            "name": "$@Generic___@ProfileAction___8D22280F66736BD4122F73804C323CFD",
+            "templateActionName": "$@Generic___@KeyboardKey",
+            "actionParameters": {
+                "$type": "Loupedeck.ActionEditorActionParameters, PluginApi",
+                "parameters": {
+                    "$type": "Loupedeck.StringDictionaryNoCase, PluginApi",
+                    "keyboardKey": "Command+Key6___1033___Cmd+6___"
+                },
+                "count": 1
+            },
+            "displayName": "Task 6",
+            "description": "Codex Control · Task 6",
+            "groupName": "Codex Control",
+            "superGroupName": "@macro",
+            "isProfileAction": true,
+            "isMultiState": false,
+            "isResetCommand": false,
+            "adjustmentName": null,
+            "states": null
+        },
+        {
+            "$type": "Loupedeck.Service.ApplicationProfileCommand, LoupedeckService",
+            "isCommand": true,
+            "name": "$@Generic___@ProfileAction___191E70711831CBDB8A18831A2009CC2D",
+            "templateActionName": "$@Generic___@KeyboardKey",
+            "actionParameters": {
+                "$type": "Loupedeck.ActionEditorActionParameters, PluginApi",
+                "parameters": {
+                    "$type": "Loupedeck.StringDictionaryNoCase, PluginApi",
+                    "keyboardKey": "Command+Key7___1033___Cmd+7___"
+                },
+                "count": 1
+            },
+            "displayName": "Task 7",
+            "description": "Codex Control · Task 7",
+            "groupName": "Codex Control",
+            "superGroupName": "@macro",
+            "isProfileAction": true,
+            "isMultiState": false,
+            "isResetCommand": false,
+            "adjustmentName": null,
+            "states": null
+        },
+        {
+            "$type": "Loupedeck.Service.ApplicationProfileCommand, LoupedeckService",
+            "isCommand": true,
+            "name": "$@Generic___@ProfileAction___32AF4A267BCE0DD11B483499B351CAD9",
+            "templateActionName": "$@Generic___@KeyboardKey",
+            "actionParameters": {
+                "$type": "Loupedeck.ActionEditorActionParameters, PluginApi",
+                "parameters": {
+                    "$type": "Loupedeck.StringDictionaryNoCase, PluginApi",
+                    "keyboardKey": "Command+Key8___1033___Cmd+8___"
+                },
+                "count": 1
+            },
+            "displayName": "Task 8",
+            "description": "Codex Control · Task 8",
+            "groupName": "Codex Control",
+            "superGroupName": "@macro",
+            "isProfileAction": true,
+            "isMultiState": false,
+            "isResetCommand": false,
+            "adjustmentName": null,
+            "states": null
+        },
+        {
+            "$type": "Loupedeck.Service.ApplicationProfileCommand, LoupedeckService",
+            "isCommand": true,
+            "name": "$@Generic___@ProfileAction___A62E52F19270512827A3BAB6D33ECAE0",
+            "templateActionName": "$@Generic___@KeyboardKey",
+            "actionParameters": {
+                "$type": "Loupedeck.ActionEditorActionParameters, PluginApi",
+                "parameters": {
+                    "$type": "Loupedeck.StringDictionaryNoCase, PluginApi",
+                    "keyboardKey": "Command+Key9___1033___Cmd+9___"
+                },
+                "count": 1
+            },
+            "displayName": "Task 9",
+            "description": "Codex Control · Task 9",
+            "groupName": "Codex Control",
+            "superGroupName": "@macro",
+            "isProfileAction": true,
+            "isMultiState": false,
+            "isResetCommand": false,
+            "adjustmentName": null,
+            "states": null
+        }
+    ]
+}
